@@ -81,7 +81,9 @@ These are not `free stock`, but they are strategically important and should be t
 | `Morecambe BID Jobs and Business Matters` | [Morecambe BID page][morecambe-jobs] | `4` | `5` | `1` | `5` | `Low` | `Benchmark or licensing lead`. Strong economic substance for Morecambe and Lancaster district. |
 | `Eden Project Morecambe conversations and updates` | [Eden community page][eden-community] | `4` | `5` | `1` | `5` | `Low` | `Reference and access lead`. Important future-facing story, but footage use depends on permission. |
 | `BAE T-600 / FalconWorks` | [BAE article][bae-t600] | `5` | `3` | `1` | `5` | `Medium` | `Permission-led`. Excellent future-industry proof, but easily becomes generic defence footage if not grounded in Lancashire. |
+| `BAE Systems Warton flight-test and aerodrome proof` | [Lancashire CCA Warton update][warton-cca], [Invest in Lancashire Warton][invest-warton] | `1` | `5` | `1` | `5` | `Low` | `Access lead`. Strong exact proof that Warton is the right Lancashire aerospace setting, but not footage in itself. |
 | `AMRC North West / Samlesbury` | [AMRC page][amrc-nw] | `4` | `4` | `1` | `5` | `Low` | `Permission-led`. Strong for South Ribble and future-industry scenes. |
+| `Rolls-Royce Barnoldswick site proof` | [Rolls-Royce UK sites][rr-uk-sites], [Rolls-Royce locations][rr-locations] | `1` | `5` | `1` | `5` | `Low` | `Access lead`. Exact Lancashire manufacturing proof, but a permission-led capture job rather than a stock-footage solution. |
 | `Vital Energi corporate video stack` | [Vital Energi Vimeo][vital-vimeo], [Training Academy][vital-academy] | `4` | `4` | `1` | `5` | `Low` | `Permission-led`. Strong Blackburn with Darwen clean-growth proof. |
 | `Festival of Making visual stack` | [Festival gallery][festival-gallery], [Festival FAQ][festival-faq] | `4` | `5` | `1` | `5` | `Low` | `Permission-led`. Strongest Blackburn street-life and making-culture footage lead. |
 | `The Harris video and press layer` | [Harris information][harris-info], [Harris press page][harris-press] | `4` | `5` | `1` | `4` | `Low` | `Permission-led`. Good civic and cultural proof for Preston. |
@@ -96,10 +98,10 @@ This is the current footage-readiness view for the first round of video planning
 | `Blackpool` | `Strong` | Best existing free motion stack in the county. Strong spectacle, coast and interiors. | Use as a county-hero anchor immediately. |
 | `Burnley` | `Medium` | Symbolically strong, but hero-grade exact motion for `Towneley` and `Singing Ringing Tree` still needs top-up. | Prioritise one Burnley drone and one town-night shoot. |
 | `Chorley` | `Medium` | Solid heritage and park pools, but less polished direct motion than the coast. | Shoot `Astley Hall`, market-day life and Yarrow Valley. |
-| `Fylde` | `Medium to strong` | Strong coastal iconography and premium tone; exact polished local motion still thinner than Blackpool. | Prioritise `Lytham Windmill`, `Fairhaven`, festival and golf windows. |
+| `Fylde` | `Medium to strong` | Strong coastal iconography and premium tone; exact polished local motion still thinner than Blackpool, and the aerospace layer is still access-led. | Prioritise `Lytham Windmill`, `Fairhaven`, festival and golf windows, plus a permission-led `BAE Warton` package. |
 | `Hyndburn` | `Medium` | Exact civic and culture assets exist, but hero motion is patchy. | Shoot `Accrington` public realm and `Haworth` detail. |
 | `Lancaster` | `Strong` | Best all-round county story after Blackpool: bay, city, promenade, heritage, future story. | Build county and local pilots from `Morecambe`, `Heysham`, `Lancaster Central`. |
-| `Pendle` | `Medium` | Exact icons are outstanding, but free motion remains mixed. | Shoot `Pendle Hill`, `Barley`, and one manufacturing interior day. |
+| `Pendle` | `Medium` | Exact icons are outstanding, but free motion remains mixed and the strongest economic proof is still permission-led. | Shoot `Pendle Hill`, `Barley`, and build a `Rolls-Royce Barnoldswick` or equivalent precision-manufacturing package. |
 | `Preston` | `Medium` | Strong city and park pools, but hero-grade motion needs top-up. | Shoot `Harris`, `Flag Market`, riverside and Brockholes transitions. |
 | `Ribble Valley` | `Strong` | `Clitheroe Castle` aerial gives immediate quality; rural and heritage pools are excellent. | Use immediately for premium county scenes and a local pilot. |
 | `Rossendale` | `Medium` | Distinctive mood and culture, but relies on weather-aware shooting to look world-class. | Shoot on a strong weather day with valley roads and Whitaker interiors. |
@@ -187,15 +189,103 @@ These are the strongest first local films to make because they combine strategic
 
 These are the highest-value missing or underpowered footage areas.
 
-- `Pendle Hill` hero motion
-- `Singing Ringing Tree` hero motion
-- `Towneley Hall` hero motion
-- `Lytham Windmill and Green` polished motion
-- `Fleetwood harbour and market` polished motion
-- `Preston Harris / Flag Market / river` polished motion
-- `Samlesbury / AMRC / innovation corridor` permission-led footage
-- `Blackburn with Darwen` maker-culture and clean-growth footage
-- `West Lancashire` town-reinvention and productive-landscape footage
+### 8.1 Ranked top-up gaps
+
+| Priority | Gap | Borough / division fit | Why it is high value | Minimum top-up needed | Best use after capture |
+| --- | --- | --- | --- | --- | --- |
+| `1` | `Pendle Hill` hero motion | `Pendle Hill`, `Pendle Rural`, county hero film | One of the county's strongest symbolic images, but current free motion is not yet at hero standard. | Dawn or late-day drone reveal, summit/ridge tracking, walker scale, weather pass. | County opener, county close, Pendle local films, East Lancashire bridge shots. |
+| `2` | `Singing Ringing Tree` hero motion | `Burnley South West`, Burnley borough film | A top county icon that still relies too heavily on mixed-quality pools. | Clean orbit, push-in, static silhouette plate, blue-hour skyline, wind ambience. | Burnley hero beat, county myth layer, local Burnley South West film. |
+| `3` | `Towneley Hall` hero motion | `Burnley North East`, Burnley borough film | Burnley needs a prestige and heritage counterweight to mills and moorland. | Hall reveal, parkland glide, interior detail if allowed, family/public-life footage. | Burnley borough film, heritage inserts, county-quality layer. |
+| `4` | `Preston Harris / Flag Market / river` polished motion | `Preston City`, `Preston South West`, county hero film | Preston is strategically important, but the city still lacks enough polished motion to carry its share of the county story. | Harris exterior, Flag Market movement, riverside bridges, Avenham transition, dusk civic-light shots. | County public-life section, Preston local pilots, city anchor proof. |
+| `5` | `Lytham Windmill and Green` polished motion | `Lytham`, `St Annes South`, Fylde borough film | Fylde needs a stronger exact premium-coast asset base for the first films. | Windmill plates, green activity, estuary horizon, promenade movement, couple/family use. | County premium-coast layer, Lytham local film, Fylde borough film. |
+| `6` | `BAE Warton aerospace and aerodrome package` | `Fylde East`, `Fylde South`, Fylde borough film, county innovation layer | Fylde's strategic business proof is one of the county's highest-value differentiators, but the current reusable footage is mostly reference-level or off-site. | Permission-cleared perimeter plates, aerodrome context, approved engineer or arrival shots, exact Warton identifiers, optional approved future-air-system imagery. | Fylde borough film, county industry layer, inward-investment edits. |
+| `7` | `Fleetwood harbour and market` polished motion | `Fleetwood East`, `Fleetwood West & Cleveleys West`, Wyre borough film | The county needs a working-coast contrast to Blackpool and Fylde, and Fleetwood carries that story well. | Harbour geometry, fishing-port detail, market/public-life footage, promenade, ferry-town identity. | Wyre borough film, Fleetwood local film, county maritime-industry layer. |
+| `8` | `Samlesbury / AMRC / innovation corridor` permission-led footage | `South Ribble East`, county hero proof layer | South Ribble is strategically vital, but the best footage is access-led rather than free-stock-led. | Exterior approvals, clean interiors, collaboration spaces, machine detail, apprentices or engineers, signage. | County future-industry proof, South Ribble East local film, investment-facing edits. |
+| `9` | `Rolls-Royce Barnoldswick precision-manufacturing package` | `Pendle Central`, `Pendle Rural`, Pendle borough film, county making layer | Pendle needs harder economic proof to balance myth and landscape, and Barnoldswick is the cleanest aerospace-manufacturing symbol in the borough. | Exterior identity, approved production or process detail, workers, town-to-factory transitions, precision-component macro shots. | Pendle borough film, county makers layer, stakeholder edits. |
+| `10` | `Blackburn with Darwen` maker-culture and clean-growth footage | `Blackburn with Darwen wards`, Blackburn with Darwen borough film | Blackburn with Darwen has major strategic value, but not enough polished exact motion in the current stack. | Festival of Making streets, Blackburn Cathedral use, civic streets, clean-energy or business footage, football-memory texture. | Blackburn with Darwen borough film, county makers-and-modernity layer. |
+| `11` | `West Lancashire` reinvention and productive-landscape footage | `Burscough & Rufford`, `West Lancashire East`, `Skelmersdale Central` | West Lancashire is more strategically useful than its current footage suggests. | Ormskirk market-town life, Burscough canal and wharf, productive fields, Skelmersdale renewal visuals. | West Lancashire borough film, food-and-product layer, local pilots. |
+
+### 8.2 Best top-up packages
+
+If time and budget are tight, group the gap list into practical packages.
+
+- `Package A: East Lancashire hero and making day`
+  `Pendle Hill`, `Singing Ringing Tree`, `Towneley Hall`, one Burnley town transition, and `Rolls-Royce Barnoldswick` if access clears.
+
+- `Package B: Premium coast and Warton day`
+  `Lytham Windmill`, `Lytham Green`, `Fairhaven`, and a permission-led `BAE Warton` perimeter or aerodrome package.
+
+- `Package C: Working coast day`
+  `Fleetwood harbour`, `Fleetwood market`, promenade, and optional `Cleveleys` seafront utility plates.
+
+- `Package D: Civic core and future-industry day`
+  `Preston Harris`, `Flag Market`, riverfront, then `Samlesbury / AMRC` if access is cleared.
+
+- `Package E: Maker and reinvention day`
+  `Blackburn with Darwen` civic and maker footage, then `West Lancashire` market-town and reinvention footage.
+
+### 8.3 Minimum shot list by top-up gap
+
+- `Pendle Hill`
+  One sunrise aerial reveal, one lateral ridge pass, one hiker scale shot, one road approach, one weather hold.
+
+- `Singing Ringing Tree`
+  One clean drone orbit, one locked-off silhouette, one skyline reveal from below, one crowdless dawn or dusk plate, one wind-audio take.
+
+- `Towneley Hall`
+  One front-elevation reveal, one parkland glide, one detail set, one pathway or family-use scene, one wide establishing shot.
+
+- `Preston Harris / Flag Market / river`
+  One Harris hero shot, one Flag Market public-life shot, one bridge or riverside movement shot, one dusk civic plate, one clean city transition.
+
+- `Lytham Windmill and Green`
+  One windmill hero frame, one green activity shot, one estuary horizon shot, one promenade movement shot, one dusk or sunset plate.
+
+- `BAE Warton`
+  One exact Warton identity or perimeter shot, one aerodrome-context frame, one approved arrival or staff-movement shot, one engineering or systems-detail shot if permitted, one clean premium-coast-to-aerospace transition.
+
+- `Fleetwood harbour and market`
+  One harbour establishing shot, one rigging or boat-detail shot, one market or public-life shot, one promenade push or track, one weather plate.
+
+- `Samlesbury / AMRC`
+  One exterior identity shot, one innovation or collaboration space, one machine-detail closeup, one people-at-work shot, one wide contextual asset.
+
+- `Rolls-Royce Barnoldswick`
+  One site identity shot, one town-to-factory transition, one approved manufacturing or process-detail shot, one precision-component macro shot, one workforce or apprenticeship-context shot if permitted.
+
+- `Blackburn with Darwen`
+  One cathedral or civic hero shot, one maker or festival-energy shot, one street-life plate, one business-proof image, one football-memory texture shot.
+
+- `West Lancashire`
+  One productive-landscape drone or elevated shot, one market-town high-street shot, one canal or wharf movement, one food or farm-support detail, one reinvention or public-realm shot.
+
+### 8.4 What closes the biggest strategic weakness fastest
+
+If only `three` things get commissioned next, make them:
+
+- `Pendle Hill`
+  because the county needs a truly world-class hill symbol
+
+- `Singing Ringing Tree + Towneley Hall`
+  because Burnley then becomes much more complete as a borough story
+
+- `Preston Harris / Flag Market / river`
+  because the county still needs a stronger polished civic-core layer
+
+Those three upgrades would improve:
+
+- the county hero film
+- Burnley and Pendle local films
+- the Preston local films
+- the overall balance between scenery, towns and civic confidence
+
+If `one` permission-led industry package also clears, make it:
+
+- `BAE Warton`
+  because Fylde then stops relying on premium coast alone and gains exact aerospace proof
+
+- `Rolls-Royce Barnoldswick`
+  because Pendle then balances myth, road drama and precision making in one borough story
 
 ## 9. What to do next
 
@@ -204,8 +294,9 @@ The current system is good enough to start, but not good enough to stop.
 Immediate actions:
 
 - cut a `county hero proof-of-concept` from the current strong free motion stack
-- run `three top-up shoot days`: `East Lancashire`, `Fylde / Wyre coast`, `Preston / South Ribble`
-- prepare a short `permission ask list` for `Eden`, `AMRC`, `BAE`, `Vital Energi`, `Festival of Making`, `The Harris`
+- run `three location top-up shoot days`: `East Lancashire`, `Fylde coast / Wyre coast`, `Preston civic core`
+- line up `two permission-led industrial access windows`: `BAE Warton` and `Rolls-Royce Barnoldswick`
+- prepare a short `permission ask list` for `Eden`, `AMRC`, `BAE Warton`, `Rolls-Royce Barnoldswick`, `Vital Energi`, `Festival of Making`, `The Harris`
 - use the first local pilots to test the shared typography, music stems and end-card system before rolling the system across the full division slate
 
 ## 10. Final judgement
@@ -248,7 +339,11 @@ It is `not yet` strong enough to make the final full county system feel complete
 [morecambe-jobs]: https://morecambebid.com/jobs-and-business-matters/
 [eden-community]: https://www.edenproject.com/new-edens/eden-project-morecambe-uk/eden-project-morecambe-events-and-community-conversations
 [bae-t600]: https://www.baesystems.com/en/article/t-600-electric-uncrewed-demonstrator-aircraft-achieves-significant-milestone-at-nato-exercise
+[warton-cca]: https://www.lancashire-cca.gov.uk/news/2025/exciting-plans-announced-warton-enterprise-zone-ez-featuring-altitude-facility
+[invest-warton]: https://investinlancashire.com/enterprise-zones/warton
 [amrc-nw]: https://www.amrc.co.uk/pages/amrc-north-west
+[rr-uk-sites]: https://www.rolls-royce.com/country-sites/uk/uk-sites.aspx
+[rr-locations]: https://careers.rolls-royce.com/our-locations
 [vital-vimeo]: https://vimeo.com/vitalenergi/videos
 [vital-academy]: https://www.vitalenergi.co.uk/careers/training-academy/
 [festival-gallery]: https://festivalofmaking.co.uk/gallery-2/

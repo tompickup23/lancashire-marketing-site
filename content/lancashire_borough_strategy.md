@@ -246,6 +246,7 @@ Reform-councillor note:
 
 - `Business, product and proof`
   `BAE Systems Warton`, `Lytham Festival`, `Royal Lytham & St Annes`, visitor-economy performance.
+  Top-up footage rule: use exact `Warton` or clearly approved `BAE Systems` material, not generic military or aviation proxy footage.
 
 - `Best moments and seasonal windows`
   Summer seafront, dawn estuary shots, festival nights, golf championship periods, winter sea light and sunset Fairhaven footage.
@@ -257,7 +258,7 @@ Reform-councillor note:
   `Joshua Connor Roberts` (`Fylde East`), `David Michael Dwyer` (`Fylde South`).
 
 - `Execution rule`
-  Do not make Fylde look like empty affluence. It needs premium coast plus serious aerospace substance.
+  Do not make Fylde look like empty affluence. It needs premium coast plus serious aerospace substance, and any aerospace footage must read as exact `Warton`, not generic airpower.
 
 ## Hyndburn
 
@@ -380,6 +381,7 @@ Reform-councillor note:
 
 - `Business, product and proof`
   `Silentnight`, `Rolls-Royce Barnoldswick`, `Hope Technology`, `Buoyant`, PEARL, Nelson Town Deal.
+  Top-up footage rule: frame `Rolls-Royce Barnoldswick` as precision aerospace manufacturing rooted in town and workforce context, not as generic engine montage.
 
 - `Best moments and seasonal windows`
   Dawn hill shots, cycling season, autumn mists, spring green valleys, winter town-light contrast and visible regeneration milestones.
@@ -391,7 +393,7 @@ Reform-councillor note:
   `Marion Ellen Atkinson` (`Pendle Central`), `Nathan Thomas McCollum` (`Pendle Rural`).
 
 - `Execution rule`
-  Do not sell Pendle as haunted scenery only. The borough works when myth and making live in the same frame.
+  Do not sell Pendle as haunted scenery only. The borough works when myth and making live in the same frame, and the making needs exact `Barnoldswick` or clearly attributable local production imagery.
 
 ## Preston
 
