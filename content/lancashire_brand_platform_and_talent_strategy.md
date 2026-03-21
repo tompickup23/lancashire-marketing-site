@@ -1104,3 +1104,173 @@ Final note:
 
 - use division anchors when they help planning, partner outreach, and localised cutdowns
 - do not force them into the public-facing creative if the county story becomes smaller or more bureaucratic as a result
+
+## 22. Maybe / low-confidence appendix
+
+This section exists because the wider working project wants to keep weaker leads visible rather than losing them.
+
+Important rule:
+
+- `Maybe` means the lead is strategically interesting but weaker than the main recommendation set
+- `Low quality data` means the evidence base is weaker than the normal standard for the core strategy, often because it comes from older local coverage, internal scans, discovery tools, or partial route information
+- nothing in this appendix should be treated as launch-copy-ready without another verification pass
+
+## 22.1 Public figure and ambassador maybes
+
+- `AJ Odudu`
+  Category: hero / presenter / mainstream talent maybe.
+  Why maybe: very useful Lancashire-facing media name, but not as central to the current county proposition as the tighter hero tier.
+  Data quality: `Medium`.
+  Source note: borough influence scan and public mainstream-profile association, but not prioritised in the main ambassador shortlist.
+
+- `Wayne Hemingway`
+  Category: culture / regeneration / Morecambe maybe.
+  Why maybe: strategically useful for Morecambe and design-led regeneration, but stronger as a project contributor than as a county-wide hero face.
+  Data quality: `Medium`.
+  Source note: borough influence scan and Morecambe-rooted public association.
+
+- `Jeanette Winterson`
+  Category: literary / cultural maybe.
+  Why maybe: high cultural status, but not an obvious visitor-facing lead for the main campaign cut.
+  Data quality: `Medium`.
+  Source note: borough influence scan.
+
+- `Tony Livesey`
+  Category: broadcast / media maybe.
+  Why maybe: recognisable Burnley media voice, but narrower visual and tourism use than the main shortlist.
+  Data quality: `Medium`.
+  Source note: internal Burnley scan and public broadcasting profile.
+
+- `Fabian Coulthard`
+  Category: sport / motorsport maybe.
+  Why maybe: public Burnley-linked sporting name, but motorsport is less naturally useful to the county tourism proposition than cricket, football, athletics or culture.
+  Data quality: `Low to medium`.
+  Source note: internal Burnley scan.
+
+- `Hollie Steel`
+  Category: entertainment maybe.
+  Why maybe: public Burnley-origin talent, but current reach and present-day county fit need re-checking before elevation.
+  Data quality: `Low to medium`.
+  Source note: internal Burnley scan.
+
+- `Natalie Gumede`
+  Category: screen / entertainment maybe.
+  Why maybe: recognisable public figure, but not as place-coded to the county proposition as the core shortlist.
+  Data quality: `Medium`.
+  Source note: internal Burnley scan and public-profile association.
+
+## 22.2 Local creator, style and town-scale talent maybes
+
+- `Lauren Saddington`
+  Category: family creator / local influencer maybe.
+  Why maybe: useful Burnley-facing creator and businesswoman, but more town-scale than county-scale.
+  Data quality: `Medium`.
+  Source note: Burnley public talent map and Burnley Express coverage.
+
+- `Freya Farrington`
+  Category: fashion / lifestyle creator maybe.
+  Why maybe: good lived-in Burnley texture and relatable content style, but not strong enough to carry county-wide work alone.
+  Data quality: `Medium`.
+  Source note: Burnley public talent map and Burnley Social coverage.
+
+- `Simon Townley`
+  Category: grooming / style / enterprise maybe.
+  Why maybe: useful style-and-skills signal, but better for sector content and Burnley-specific activation than the county hero layer.
+  Data quality: `Medium`.
+  Source note: Burnley public talent map and Burnley Social coverage.
+
+- `Nadia Lucy`
+  Category: nightlife / music maybe.
+  Why maybe: useful event-energy lead from the Burnley scene, but evidence quality is lighter and scale is more local than county-wide.
+  Data quality: `Low to medium`.
+  Source note: Burnley Social awards coverage.
+
+- `Holly Lynch`
+  Category: fitness / local personality maybe.
+  Why maybe: useful for health-and-energy texture, but public-source depth is lighter than the main shortlist.
+  Data quality: `Low to medium`.
+  Source note: Burnley Social awards coverage.
+
+- `Kellie Dobson`
+  Category: beauty / confidence / Padiham maybe.
+  Why maybe: strong Padiham-facing business and confidence story, but narrower as a county-wide lead.
+  Data quality: `Medium`.
+  Source note: Burnley public talent map and Burnley Express coverage.
+
+- `Olivia Houghton`
+  Category: beauty founder maybe.
+  Why maybe: useful Padiham founder story, but currently a supporting local-business lead rather than a major ambassador.
+  Data quality: `Low to medium`.
+  Source note: Padiham salon-launch coverage.
+
+- `Ainsley Darling`
+  Category: hair founder maybe.
+  Why maybe: useful Padiham founder story, but currently a supporting local-business lead rather than a major ambassador.
+  Data quality: `Low to medium`.
+  Source note: Padiham salon-launch coverage.
+
+## 22.3 Fashion, glamour and pageant maybes
+
+- `Briony Raynes / Briony Gorton`
+  Category: fashion / lifestyle / glamour-adjacent maybe.
+  Why maybe: strong Burnley-rooted style and ecommerce figure, but still better used as a targeted creator or retail partner than as a county-wide hero face.
+  Data quality: `Medium`.
+  Source note: internal Burnley scan, public talent map and Burnley / Talliah Rose coverage.
+
+- `Miss Lancashire`
+  Category: civic glamour / pageant maybe.
+  Why maybe: useful county-facing soft-power role, but the exact titleholder and campaign utility can shift over time, so it should sit as a flexible supporting asset rather than a fixed strategic centrepiece.
+  Data quality: `Medium`.
+  Source note: public pageant coverage is clear, but the role is inherently time-sensitive.
+
+## 22.4 Product and symbolic-economy maybes
+
+- `Lancashire Bomb / premium Lancashire cheese gifting`
+  Category: premium gifting shorthand maybe.
+  Why maybe: strategically useful as a premium county-gifting cue, but weaker as a direct official county-brand proof point than the top product list.
+  Data quality: `Medium`.
+  Source note: used here as symbolic premium shorthand rather than a fully built county-campaign pillar.
+
+- `Lancashire Life`
+  Category: editorial identity maybe.
+  Why maybe: useful as a cultural object and lifestyle signifier, but not as commercially direct as tea, cheese, crisps or hotpot.
+  Data quality: `Medium`.
+  Source note: strong editorial brand, weaker direct tourism-conversion utility.
+
+- `Beacon Fell Traditional Lancashire Cheese`
+  Category: protected-food maybe.
+  Why maybe: very strong authenticity signal, but narrower and less consumer-legible on first contact than the simpler top-tier food cues.
+  Data quality: `Medium`.
+  Source note: official and strong, but still more specialist in public marketing use.
+
+## 22.5 Event and route maybes
+
+- `Tour de France Femmes exact Lancashire route geography`
+  Category: event maybe.
+  Why maybe: Lancashire is publicly linked to the route story, but the official detailed route is still pending.
+  Data quality: `Low`.
+  Source note: do not hard-code exact divisions until the official detailed route release lands.
+
+- `Tour de France men’s corridor beyond the Lancaster section`
+  Category: route maybe.
+  Why maybe: current Lancashire marketing material gives a clear working corridor, but exact division-level line beyond the confirmed Lancaster-side anchors still needs the detailed road book.
+  Data quality: `Low to medium`.
+  Source note: good enough for planning, not final enough for hyper-local claims.
+
+- `National Festival of Making 2026 public-calendar specifics`
+  Category: event maybe.
+  Why maybe: strategically strong, but current public-date certainty was weaker in this pass than other flagship hooks.
+  Data quality: `Low`.
+  Source note: keep in the opportunity stack, but re-check live public pages before using in outward-facing scheduling.
+
+- `Baylight 2027 exact public dates`
+  Category: event maybe.
+  Why maybe: strong directional signal that Baylight returns in 2027, but exact dated programming still needs checking before hard campaign scheduling.
+  Data quality: `Low`.
+  Source note: retain as a hook, not as a locked publishing date.
+
+## 22.6 Sensitive low-quality categories not published here
+
+- `Adult creator economy low-quality maybes`
+  Status: intentionally not listed here.
+  Reason: low-quality or directory-only adult-platform claims do not meet a safe enough publication standard for the strategy page. Only `self-public`, clearly adult, strongly sourced cases should ever sit in the private internal outreach layer, and even then they should stay out of the public-facing strategy narrative.
