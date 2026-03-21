@@ -13,11 +13,17 @@ Local production outputs:
 - voice master:
   `/Users/tompickup/Documents/New project/output/lancashire_county_hero_voiceover/lancashire_county_hero_northern_male.wav`
 
+- planning animatic:
+  `/Users/tompickup/Documents/New project/output/lancashire_county_hero_animatic/lancashire_county_hero_planning_animatic.mp4`
+
 - timing JSON:
   `/Users/tompickup/Documents/New project/output/lancashire_county_hero_voiceover/timing.json`
 
 - timing CSV:
   `/Users/tompickup/Documents/New project/output/lancashire_county_hero_voiceover/timing.csv`
+
+- scene tracker CSV:
+  `/Users/tompickup/Documents/New project/lancashire_county_hero_scene_tracker.csv`
 
 ## 2. Key finding
 
@@ -128,6 +134,7 @@ It has:
 - a stable script
 - a measured voiceover
 - a timed scene structure
+- a planning animatic
 - a clear footage order
 
 That is enough to start a first serious edit.
