@@ -92,6 +92,23 @@ export const researchDocuments: ResearchDocument[] = [
         (module) => module.default,
       ),
   },
+  {
+    slug: 'public-talent-map',
+    title: 'Public Talent Map: Burnley + Padiham',
+    kicker: 'Talent',
+    description:
+      'A publishable public-talent layer focused on Burnley and Padiham, covering fashion, beauty, creator and style-business figures with usable division anchors.',
+    highlights: [
+      'Burnley public-facing talent shortlist',
+      'Padiham beauty and founder map',
+      'Discovery sources for the next pass',
+      'Division anchors for production planning',
+    ],
+    loadMarkdown: () =>
+      import('../../content/lancashire_public_talent_map_burnley_padiham.md?raw').then(
+        (module) => module.default,
+      ),
+  },
 ]
 
 export const documentLookup = Object.fromEntries(
@@ -209,6 +226,11 @@ export const spotlightPoints = [
     title: 'Borough and ward views both exist',
     description:
       'The site now has both a borough-level campaign map and a division-level planning layer, so local cutdowns can stay accurate without flattening the county story.',
+  },
+  {
+    title: 'There is now a public talent layer',
+    description:
+      'Burnley and Padiham now have a publishable talent-and-style document that is tighter than a raw influencer scrape and more useful for campaign outreach.',
   },
   {
     title: 'The source docs stay readable',
