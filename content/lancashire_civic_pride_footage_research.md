@@ -456,6 +456,126 @@ If you want a disciplined acquisition plan instead of random filming, the cleane
 - `County-wide creator network`
   Use the Burnley pilot, civic figures, local ambassadors, and sector creators as a distributed contributor network, but collect footage to one central licensing standard instead of letting usage rights drift.
 
+## 2.8 Business, innovation and future-industry proof points
+
+Lancashire should not be marketed as if its economy is invisible.
+
+From a civic-pride point of view, the strongest counties show that they are not only beautiful, but `productive`, `inventive`, `employing people`, and `building the future`.
+
+The official sources now support that story.
+
+Important use note:
+
+- most of the items below are `story and filming targets`, not automatically free source footage
+- for most business footage you will need `corporate permission`, `press-office approval`, or `an escorted filming arrangement`
+- the value of this section is that it identifies the strongest Lancashire business narratives and the best places to get exact footage
+
+### 2.8.1 County-level economic proof
+
+- `LCCA, devolution and growth-plan language`
+  Lancashire County Council says the Lancashire Combined County Authority has adopted a Growth Plan mapping `£20bn` of public and private investment opportunities, with early devolution funding progressing projects including the `Samlesbury Innovation Hub`, `Silicon Sands`, and `Blackburn Cyber Campus and Innovation Quarter`. The same update says Lancashire has a `£40bn` GVA and plans a `£20m` Local Innovation Partnership bid around defence, security and critical national infrastructure. Source: [LCCA anniversary update][lcca-anniversary].
+
+- `Large employers and sector weight`
+  Lancashire County Council says `BAE Systems` is by far the biggest private employer in the county, and lists other major employers including `Booths`, `Westinghouse Springfields`, `Leyland Trucks`, `AB InBev`, `James Hall & Co`, and `Vital Energi`. Source: [Lancashire large employers][lcc-large-employers].
+
+Why this matters on film:
+
+- it lets Lancashire look like a county with substance, not just scenery
+- it gives permission to show `workers`, `plants`, `labs`, `logistics`, `apprentices`, and `innovation spaces`
+- it gives the tourism film a stronger emotional line: `this is a county people are proud to build in, not just visit`
+
+### 2.8.2 Strongest innovation and business stories to include
+
+- `Samlesbury Innovation Hub`
+  Lancashire County Council says the `£13.2m` Samlesbury Innovation Hub will support businesses in `advanced engineering`, `manufacturing`, `science`, `technology`, and `cyber`, and is intended to act as a catalyst for collaboration, innovation and business growth. Sources: [Samlesbury Innovation Hub 2026][samlesbury-innovation], [Innovation Hub 2025 announcement][samlesbury-innovation-2025].
+  Best filming angle: construction progress, external hero shots, collaboration spaces, event footage, business meet-ups, innovation signage, and any future launch activity.
+  Division note: `South Ribble East` is the cleanest working anchor for planning.
+
+- `Samlesbury Enterprise Zone and AMRC North West`
+  The Samlesbury Enterprise Zone says Lancashire is home to the UK’s single largest aerospace cluster, with `500` aerospace supply-chain companies and up to `6,000` additional high-skilled jobs supported through the Samlesbury and Warton Enterprise Zone development. AMRC North West says it is based on the Samlesbury Enterprise Zone to help manufacturers access advanced technologies that improve productivity, performance and quality. Sources: [Samlesbury Enterprise Zone supply chain][samlesbury-ez], [AMRC North West][amrc-nw].
+  Best filming angle: advanced-manufacturing exteriors, robotics, inspection, shop-floor process, digital twin screens, collaborative workshops, supplier events and technical demos.
+  Division note: `South Ribble East`.
+
+- `BAE Systems, FalconWorks and the uncrewed / drone story`
+  BAE’s official `T-600` article says the demonstrator is designed to develop technology for the `T-650`, a heavy-lift electric uncrewed air system, and that the programme sits within `FalconWorks`. Current BAE Warton roles also explicitly reference `FalconWorks`, `autonomous system capabilities and integration`, `future platforms`, and `crewed and uncrewed teaming`. Sources: [BAE T-600 / T-650][bae-t600], [BAE Warton autonomous systems role][bae-warton-autonomy], [BAE Warton FalconWorks manufacturing role][bae-warton-falconworks].
+  Use note: the T-600 article itself does not say `Lancashire` in the body text, so linking the uncrewed / drone story specifically to Lancashire is an inference from the official FalconWorks activity currently advertised at Warton and Samlesbury.
+  Best filming angle: Warton / Samlesbury exteriors where permitted, engineering talent, simulator / rig visuals, advanced composites and manufacturing texture, plus licensed model or demo visuals for autonomy and UAS.
+  Division note: `South Ribble East` for Samlesbury; `Fylde divisions around Warton` need exact pinning before hyper-local cutdowns.
+
+- `Lancashire Cyber Partnership and defence-security growth`
+  Lancashire County Council says Lancashire’s cyber partnership is designed to maximise a `once in a generation` cyber opportunity and explicitly links academic expertise in `future flight` and `space` to the county’s cyber mission. Source: [Lancashire Cyber Partnership][lancashire-cyber].
+  Best filming angle: secure business-park exteriors, cyber events, screens, code, operations rooms, students, conference footage and partner workshops.
+  Division note: strongest strategic anchor is the `Samlesbury / South Ribble East` corridor.
+
+- `AEM Watchtower and aerospace supply-chain resilience`
+  Lancashire County Council says Watchtower 2 is designed to keep Lancashire’s aerospace and advanced-manufacturing businesses at the forefront of global innovation, with more support for SMEs in the sector. Sources: [Watchtower 2 funding boost][watchtower-2], [Watchtower launch][watchtower-launch].
+  Best filming angle: SME factory floors, inspections, machining, supplier interviews, team stand-ups, export crates, and mid-sized industrial firms that show local supply-chain depth.
+  Division note: `County-wide`, with strong relevance across `Padiham and Burnley West`, `Pendle Central`, `South Ribble East`, and the wider Fylde / Preston manufacturing corridor.
+
+- `AMRC digital and connectivity projects`
+  AMRC North West has led work on `5G Factory of the Future`, 5G sensors, and broader factory connectivity and digitalisation projects, including collaborations involving BAE Systems. Sources: [AMRC 5G sensors][amrc-5g], [AMRC Future Air Support with BAE][amrc-future-air].
+  Best filming angle: sensors, robotics, edge devices, dashboards, machine data, inspection tooling, mixed office-lab environments and R&D closeups.
+  Division note: `South Ribble East`.
+
+- `Business support and scale-up infrastructure`
+  Boost says more than `2,000` Lancashire businesses received support between September 2023 and March 2025, while Two Zero is Lancashire County Council’s specialist scale-up support programme. Sources: [Boost helps 2,000 businesses][boost-2000], [Two Zero launch][two-zero].
+  Best filming angle: founder interviews, mentoring sessions, co-working, peer learning, business breakfasts, innovation workshops, and scale-up office culture.
+  Division note: `County-wide`.
+
+- `Skills pipeline and BAE-backed schools work`
+  CREATE Education says its `Inspiring Lancashire` programme with BAE Systems has provided digital and STEM access to schools across Lancashire, including printers, scanners, workshops, teacher training and site visits. Source: [CREATE Education / Inspiring Lancashire][create-inspiring].
+  Best filming angle: pupils using kit, teachers leading workshops, apprentices, factory visits, 3D printing, CAD screens, and young people talking about futures in Lancashire.
+  Division note: `County-wide`, with `Preston` and `South Ribble` especially strong for activation.
+
+- `Lancashire Central and the strategic employment-site story`
+  Invest in Lancashire says `Lancashire Central` is a 100+ acre strategic employment site with the potential to generate up to `5,600` full-time jobs and support offices, industry, storage, distribution, R&D, retail, hospitality and active-travel connections. Source: [Lancashire Central][lancashire-central-invest].
+  Best filming angle: employment-land scale, motorway connectivity, new roads and cycle routes, site overviews, CGI / masterplan visuals where licensed, and cricket-campus synergy.
+  Division note: strongest working anchor is the `South Ribble West` corridor.
+
+- `Industrial decarbonisation and net zero`
+  Marketing Lancashire says the planned `Samlesbury Net Zero` hydrogen project at Budweiser’s brewery aimed to cut up to `11,000 tonnes` of CO2 annually, with education and upskilling links for the local community. Blackpool Council says `Silicon Sands` is planned as a renewably powered digital-infrastructure project with AI and advanced-manufacturing potential. Sources: [Samlesbury Net Zero][samlesbury-net-zero], [Silicon Sands][silicon-sands].
+  Best filming angle: energy systems, boilers, tanks, logistics vehicles, sustainability graphics, cooling infrastructure, solar and modern utilities, plus interviews about future jobs and cleaner industry.
+  Division note: `South Ribble East` for Samlesbury; `outside Lancashire County Council divisions` for Silicon Sands in Blackpool.
+
+- `Lancashire-rooted businesses worth approaching directly`
+  `Booths` is a strong proof point for Lancashire food, local supply chains and premium everyday identity. `James Hall & Co` adds logistics, wholesale distribution and automation from Preston. `Panaz` adds Burnley-rooted advanced textiles, sustainability and digital print manufacturing. Sources: [Booths and local producers][booths-local], [James Hall automation and Preston distribution][jameshall-relex], [Panaz sustainability and Burnley HQ][panaz-sustainability].
+  Best filming angle: depots, buyers, food manufacturing, local-supplier deliveries, digital print, fabric handling, finish-detail shots, retail counters and branded Lancashire products moving through a real supply chain.
+  Division note: `Preston divisions` for Booths / James Hall, `Padiham and Burnley West` for Panaz, and `outside Lancashire County Council divisions` for Blackburn-headquartered businesses such as Vital Energi.
+
+- `Space and frontier-tech narrative`
+  Marketing Lancashire has publicly promoted a `Lancashire in Space Partnership`, adding a wider frontier-tech and R&D layer to the county story. Source: [Lancashire in Space Partnership][space-partnership].
+  Best filming angle: observatories, labs, lectures, mission graphics, satellite or aerospace visualisations, coding and research environments.
+  Division note: strongest public-facing anchor is `Preston`, though the story is county-wide.
+
+### 2.8.3 What this means for footage planning
+
+If Lancashire wants to feel like a serious county brand, the business layer should be filmed with the same care as the coast and landmarks.
+
+Priority business-footage categories:
+
+- `Aerospace and future flight`
+  BAE, AMRC, enterprise-zone roads, hangars, tooling, engineers, autonomy graphics, drone / UAS demonstration material where licensed.
+
+- `Cyber and digital`
+  conferences, campuses, screens, students, control-room mood, innovation-hub events, secure architecture and fibre / data infrastructure.
+
+- `Food, logistics and branded products`
+  Booths, James Hall, bakeries, cheese, hampers, distribution centres, loading bays, chilled operations, local-producer deliveries.
+
+- `Advanced manufacturing`
+  textiles, fabrication, machine tending, robotics, inspection, quality assurance, CAD and print systems, clean industrial interiors.
+
+- `Clean growth`
+  hydrogen, energy centres, EV charging, heat networks, solar, industrial decarbonisation and sustainable-building visuals.
+
+- `People`
+  apprentices, technicians, coders, founders, buyers, drivers, designers, graduates and community-facing business leaders.
+
+Practical acquisition note:
+
+- the best route for this layer is to build a `Lancashire business filming list` and approach comms teams directly for access, case-study footage, escort filming, or existing b-roll
+- for high-security or export-controlled sites, use approved exterior footage, employee interviews off-site, motion graphics and partner-supplied stills / b-roll
+
 ## 3. What to include in the film
 
 ## 3.1 The highest-priority visual pillars
@@ -890,6 +1010,30 @@ If this Lancashire marketing project is meant to feel current rather than timele
 [commons-steve-pemberton]: https://commons.wikimedia.org/wiki/Category:Steve_Pemberton
 [commons-lancashire-hotpot]: https://commons.wikimedia.org/wiki/Category:Lancashire_hotpot
 [commons-lancashire-cheese]: https://commons.wikimedia.org/wiki/Category:Lancashire_cheese
+[lcca-anniversary]: https://news.lancashire.gov.uk/news/lcca-marks-one-year-anniversary
+[lcc-large-employers]: https://www.lancashire.gov.uk/lancashire-insight/economy/major-employers/major-public-and-private-sector-employers/
+[samlesbury-innovation]: https://news.lancashire.gov.uk/news/design-team-appointed-for-gbp-13-2m-samlesbury-innovation-hub-as-lancashire-moves-project-into-delivery
+[samlesbury-innovation-2025]: https://news.lancashire.gov.uk/news/new-gbp-13-2m-innovation-hub-to-benefit-business-in-lancashire
+[samlesbury-ez]: https://samlesburyez.com/supply-chain/
+[amrc-nw]: https://www.amrc.co.uk/pages/amrc-north-west
+[amrc-future-air]: https://www.amrc.co.uk/news/amrc-co-pilots-future-air-support-with-bae-systems
+[amrc-5g]: https://www.amrc.co.uk/news/5g-productivity-boost-for-the-north
+[bae-t600]: https://www.baesystems.com/en/article/t-600-electric-uncrewed-demonstrator-aircraft-achieves-significant-milestone-at-nato-exercise
+[bae-warton-autonomy]: https://jobsearch.baesystems.com/job/engineering-manager-autonomous-system-capabilities-and-integration-00127252
+[bae-warton-falconworks]: https://jobsearch.baesystems.com/job/quality-controller-00134269
+[lancashire-cyber]: https://news.lancashire.gov.uk/news/lancashire-announces-new-strategic-partnership-to-maximise-countys-once-in-a-generation-cyber-opportunity
+[watchtower-2]: https://news.lancashire.gov.uk/news/funding-boost-to-help-build-on-the-soaring-success-of-gbp-1m-watchtower-project
+[watchtower-launch]: https://news.lancashire.gov.uk/news/lancashire-advanced-engineering-and-manufacturing-aem-watchtower-project-takes-off-with-official-launch
+[boost-2000]: https://www.boostbusinesslancashire.co.uk/boost-knowledge-hub/news/businesses-encouraged-to-access-funded-support-service-as-boost-assists-over-2000-lancashire-companies
+[two-zero]: https://www.boostbusinesslancashire.co.uk/boost-knowledge-hub/news/new-two-zero-programme-launched-by-lancashire-county-council
+[create-inspiring]: https://www.createeducation.com/about-us/partnership-opportunities/
+[lancashire-central-invest]: https://investinlancashire.com/sites-and-premises/lancashire-central/
+[samlesbury-net-zero]: https://www.marketinglancashire.com/news/protium-and-budweiser-brewing-group-begin-plans-for-hydrogen-energy-project-at-samlesbury-brewery/
+[silicon-sands]: https://www.blackpool.gov.uk/news/silicon-sands-masterplan-launched-to-make-blackpool-a-new-home-for-data-centre-development.aspx?date=22-05-2024
+[booths-local]: https://orders.booths.co.uk/fresh-food-manufacturing
+[jameshall-relex]: https://www.jameshall.co.uk/james-hall-co-ltd-streamlines-wholesale-and-retail-planning-with-relex/
+[panaz-sustainability]: https://panaz.com/wp-content/uploads/2023/04/Panaz-Sustainability-Brochure-April-2023.pdf
+[space-partnership]: https://www.lancashire.ac.uk/news/one-giant-leap-as-lancashire-launches-new-space-partnership
 [pexels-drone-search]: https://www.pexels.com/search/videos/drone/
 [pexels-aerial-search]: https://www.pexels.com/search/videos/aerial/
 [pexels-fpv-search]: https://www.pexels.com/search/videos/fpv/

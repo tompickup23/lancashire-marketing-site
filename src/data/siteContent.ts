@@ -26,6 +26,23 @@ export const researchDocuments: ResearchDocument[] = [
       ),
   },
   {
+    slug: 'borough-map',
+    title: 'Borough Influence & Business Map',
+    kicker: 'Boroughs',
+    description:
+      'A borough-by-borough Lancashire scan covering current influence, legacy icons, major businesses, innovation projects and usable division anchors.',
+    highlights: [
+      '14 borough and unitary areas',
+      'Current influence plus past legends',
+      'Biggest businesses and innovation stories',
+      'Division and ward anchors where geography is clean',
+    ],
+    loadMarkdown: () =>
+      import('../../content/lancashire_borough_influence_and_business_map.md?raw').then(
+        (module) => module.default,
+      ),
+  },
+  {
     slug: 'footage-research',
     title: 'Footage Research',
     kicker: 'Visuals',
@@ -101,6 +118,11 @@ export const keyStats = [
     value: '82',
     label: 'County divisions covered',
     note: 'The searchable breakdown is built around current Lancashire County Council geography.',
+  },
+  {
+    value: '14',
+    label: 'Boroughs and unitaries mapped',
+    note: 'The research now has a second geography layer for influence, business and legend-led campaign planning.',
   },
 ]
 
@@ -184,9 +206,9 @@ export const productSignals = [
 
 export const spotlightPoints = [
   {
-    title: 'Ward data is built in',
+    title: 'Borough and ward views both exist',
     description:
-      'The divisions page is grounded in the same Lancashire County Council geography as the research docs, so local cutdowns and partner outreach can be planned without flattening the county story.',
+      'The site now has both a borough-level campaign map and a division-level planning layer, so local cutdowns can stay accurate without flattening the county story.',
   },
   {
     title: 'The source docs stay readable',

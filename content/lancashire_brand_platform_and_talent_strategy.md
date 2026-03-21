@@ -478,6 +478,136 @@ Recommended Lancashire creator structure:
 - `Editorial creators`
   Higher-production filmmakers or YouTubers who can make hosted day-out, itinerary and documentary-style features.
 
+### 11.5 Fashion, glamour and creator-economy layer
+
+This is a valid part of the wider talent picture, but it needs discipline.
+
+For a Lancashire brand project, the right framing is:
+
+- `fashion and beauty creators`
+- `glamour and pageant personalities`
+- `adult creator economy`, but only as a tightly controlled internal outreach category
+
+Why this can work:
+
+- it adds polish, youth reach, nightlife energy, beauty, styling and event glamour
+- it helps Lancashire feel socially current, not purely heritage-led
+- it can support Blackpool, Lytham, hospitality, retail, bridal, beauty, nightlife and festival content
+
+Best use cases:
+
+- short-form social
+- event and nightlife edits
+- beauty, wellness and retail partnerships
+- hotel, spa and dining content
+- pageant and ambassador work
+
+Best current public-facing examples:
+
+- `Jessica Gagen`
+  Why: Skelmersdale-born fashion model, Miss England winner, Miss World Europe titleholder, and aerospace-engineering / STEM crossover figure. She is unusually strong because she bridges `glamour + intelligence + engineering + Lancashire`.
+  Best use: fashion-led social, women in STEM crossover storytelling, Blackpool / pageant / event hosting, and county-ambassador work that still feels credible.
+  Sources: [Miss England on Jessica Gagen](https://www.missengland.info/lancashires-miss-england-returns-from-miss-world-ready-for-the-miss-england-semi-final-in-blackpool/), [Miss World profile](https://www.missworld.com/contestant/jessica-gagen/life/get-to-know-miss-england).
+  Division note: `West Lancashire / Skelmersdale-rooted`, with exact Lancashire County Council division pinning to be confirmed before hyper-local cutdowns.
+
+- `Miss Lancashire`
+  Why: already useful as a county-facing glamour and ambassador role without the baggage of celebrity management.
+  Best use: civic events, public appearances, hospitality, partner shoots and lighter lifestyle edits.
+  Source: [Miss England official article on Miss Lancashire](https://www.missengland.info/miss-manchester-miss-lancashire-miss-cheshire-crowned-on-iwd2025/).
+  Division note: `county-wide`.
+
+- `Briony Raynes / Briony Gorton`
+  Why: useful proof that the Burnley-rooted creator pool already touches glamour / lifestyle territory.
+  Best use: internal outreach list rather than hero-brand positioning.
+  Source note: use the internal March 17 Burnley creator scan.
+  Division note: `Padiham and Burnley West` by origin story.
+
+Strategic rule:
+
+- `fashion / glamour` can sit in public Lancashire marketing
+- `adult creator economy` should sit in an `internal-only creator database`, not in the public brand narrative
+
+Reason:
+
+- mainstream fashion and beauty can support place-marketing
+- explicit adult-platform association will create obvious brand-safety issues for LCC, schools, civic partners, family tourism and employer-facing work
+
+Operational guidance for `OnlyFans and similar platforms`:
+
+- only include `self-public`, clearly adult creators
+- never scrape or infer platform use from rumours, gossip or third-party reposts
+- do not use downloaded platform content without direct permission and original files
+- keep this as a private outreach category for adult-only, nightlife, beauty, creator-economy or digital-enterprise campaigns
+- do not use it in the main Lancashire hero film, school-facing material, or official county-council ambassador work without explicit sign-off
+
+Best practice if this category is used at all:
+
+- contract them as `creators` or `entrepreneurs`, not as a sensational list
+- use opt-in participation only
+- brief for clean 4K original footage with no copyrighted music
+- separate public-facing talent tiers from private experimental / nightlife tiers
+- keep a written brand-safety policy so partner organisations are not surprised later
+
+### 11.6 Legacy legends and inherited cultural capital
+
+The county should not market itself as if influence only comes from living celebrities.
+
+The best place brands use:
+
+- current talent
+- past legends
+- local myths
+- statues, memorials, archives and rituals
+
+That is how a place feels `deep` rather than merely current.
+
+For Lancashire, the strongest shorthand legacy stack includes:
+
+- `Eric Morecambe`
+  Best use: Morecambe seafront, humour, affection, bay identity, intergenerational recognition.
+  Division note: `Morecambe Central`.
+
+- `Sir Tom Finney`
+  Best use: Preston pride, sporting greatness, modest excellence, black-and-white archive texture paired with modern city footage.
+  Division note: strongest public shorthand is `Preston Central East` / wider Preston civic core.
+
+- `Barbara Castle`
+  Best use: Blackburn political weight, social change, serious civic history, women-and-power storytelling.
+  Division note: `outside Lancashire County Council divisions`.
+
+- `Jimmy McIlroy`
+  Best use: Burnley memory, football heritage, working-class excellence, local devotion.
+  Division note: strongest activation territory is Burnley civic core.
+
+- `Pendle Witches`
+  Best use: Pendle mystery, folklore, autumn/winter campaign work, trails, short-form hooks, merch and symbolic county iconography.
+  Division note: `Pendle Hill`, `Pendle Rural`, and surrounding Pendle divisions.
+
+- `Wallace Hartley`
+  Best use: Colne / Pendle heritage, music, pathos, local-memory storytelling with national recognition.
+  Division note: `Pendle Central` orbit.
+
+- `George Formby` and Blackpool variety heritage
+  Best use: Blackpool glamour, comedy, promenade nostalgia, music-led edits and archive transitions.
+  Division note: `outside Lancashire County Council divisions`.
+
+- `Edith Rigby`
+  Best use: Preston civic radicalism, women’s-history storytelling, museum and education tie-ins.
+  Division note: Preston civic core.
+
+Strategic rule:
+
+- use legacy figures to `deepen` the modern county story
+- never let them drag the film into sepia-only nostalgia
+- pair each legacy cue with a living equivalent, a present-day place shot, or a current economic proof point
+
+Best examples:
+
+- `Eric Morecambe + Eden Project Morecambe`
+- `Sir Tom Finney + Nick Park / Holly Bradshaw / modern Preston`
+- `Pendle Witches + Hope Technology / Rolls-Royce Barnoldswick / modern Pendle`
+- `Blackpool variety heritage + Silicon Sands / Dance Festival / present-day spectacle`
+
 ## 12. Burnley creator pilot
 
 The March 17 internal file `burnley-social-following-research-2026-03-17.md` is useful as a pilot creator pool for the wider county model.
@@ -872,6 +1002,9 @@ The project is already using current Lancashire County Council electoral divisio
 
 - `South Ribble West`
   Tom Lord.
+
+- `West Lancashire / Skelmersdale-rooted`
+  Jessica Gagen, with exact Lancashire County Council division pinning to be confirmed before hyper-local use.
 
 - `County-wide / no fixed division`
   Miss Lancashire.

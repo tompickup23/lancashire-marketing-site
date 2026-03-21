@@ -15,10 +15,11 @@ export function HomePage() {
           <p className="eyebrow">County brand platform</p>
           <h1 className="hero-title">Lancashire, packaged for the web.</h1>
           <p className="lede">
-            This repo turns the current Lancashire tourism, civic-pride and
-            division-level research into a website that is easier to scan, share
-            and publish. It keeps the source markdown intact while adding a clearer
-            overview, a readable document layer and a searchable divisions view.
+            This repo turns the current Lancashire tourism, civic-pride,
+            borough-level and division-level research into a website that is
+            easier to scan, share and publish. It keeps the source markdown
+            intact while adding a clearer overview, a readable document layer
+            and a searchable geography view.
           </p>
           <div className="hero-actions">
             <Link className="button button-primary" to="/divisions">
@@ -40,7 +41,7 @@ export function HomePage() {
             <p>
               The strongest Lancashire story here is not just landscape. It is
               <strong> coast + food + culture + proud towns + future momentum</strong>,
-              with division-level planning data underneath it.
+              with borough and division planning data underneath it.
             </p>
             <div className="pill-row">
               <span className="pill">Tourism</span>
