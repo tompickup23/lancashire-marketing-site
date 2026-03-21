@@ -9,11 +9,62 @@ export type ResearchDocument = {
 
 export const researchDocuments: ResearchDocument[] = [
   {
-    slug: 'brand-strategy',
-    title: 'Brand Platform & Talent Strategy',
-    kicker: 'Branding',
+    slug: 'county-strategy',
+    title: 'County Strategy',
+    kicker: 'Core',
     description:
-      'Deep positioning work for Lancashire as a tourism and civic-pride brand, including ambassadors, products, civic stakeholders and the 2026-2027 opportunity calendar.',
+      'The new county-level top sheet covering Lancashire’s master proposition, hero content systems, music, people, products and event logic.',
+    highlights: [
+      'What Lancashire stands for',
+      'Top-level content and people',
+      'County sound and soundtrack rules',
+      'How borough and reserve layers fit underneath',
+    ],
+    loadMarkdown: () =>
+      import('../../content/lancashire_county_strategy.md?raw').then(
+        (module) => module.default,
+      ),
+  },
+  {
+    slug: 'borough-strategy',
+    title: 'Borough Strategy',
+    kicker: 'Core',
+    description:
+      'A borough-council-area strategy layer showing the role, content, sound, people and proof points for each Lancashire borough or unitary area.',
+    highlights: [
+      '14 borough and unitary strategies',
+      'Per-borough content and music logic',
+      'People, business and product proof',
+      'Geography anchors for planning',
+    ],
+    loadMarkdown: () =>
+      import('../../content/lancashire_borough_strategy.md?raw').then(
+        (module) => module.default,
+      ),
+  },
+  {
+    slug: 'reserve-pool',
+    title: 'Reserve Pool',
+    kicker: 'Core',
+    description:
+      'The preserved second-wave and maybe layer for people, content, music, events and discovery sources that do not belong in the top-tier strategy yet.',
+    highlights: [
+      'County and borough reserve people',
+      'Reserve music and product cues',
+      'Lower-confidence event hooks',
+      'Discovery sources retained without losing them',
+    ],
+    loadMarkdown: () =>
+      import('../../content/lancashire_reserve_pool.md?raw').then(
+        (module) => module.default,
+      ),
+  },
+  {
+    slug: 'brand-strategy',
+    title: 'Brand Platform & Talent Source Doc',
+    kicker: 'Support',
+    description:
+      'The longer source strategy file behind the county-level top sheet, including deeper talent, product, civic and event logic.',
     highlights: [
       'Brand core and creative test',
       'Celebrity, creator and stakeholder tiers',
@@ -27,10 +78,10 @@ export const researchDocuments: ResearchDocument[] = [
   },
   {
     slug: 'borough-map',
-    title: 'Borough Influence & Business Map',
-    kicker: 'Boroughs',
+    title: 'Borough Influence & Business Source Map',
+    kicker: 'Support',
     description:
-      'A borough-by-borough Lancashire scan covering current influence, legacy icons, major businesses, innovation projects and usable division anchors.',
+      'The deeper borough scan behind the new borough strategy layer, covering influence, legacy icons, businesses and innovation projects.',
     highlights: [
       '14 borough and unitary areas',
       'Current influence plus past legends',
@@ -45,7 +96,7 @@ export const researchDocuments: ResearchDocument[] = [
   {
     slug: 'footage-research',
     title: 'Footage Research',
-    kicker: 'Visuals',
+    kicker: 'Support',
     description:
       'The main visual research pack for free reusable media, official tourism signals, best-practice destination marketing and major campaign hooks.',
     highlights: [
@@ -62,7 +113,7 @@ export const researchDocuments: ResearchDocument[] = [
   {
     slug: 'division-breakdown',
     title: 'County Council Division Breakdown',
-    kicker: 'Wards',
+    kicker: 'Support',
     description:
       'Division-level Lancashire County Council coverage with visual anchors and footage availability for all 82 current divisions.',
     highlights: [
@@ -79,7 +130,7 @@ export const researchDocuments: ResearchDocument[] = [
   {
     slug: 'burnley-creators',
     title: 'Burnley Creator Research',
-    kicker: 'Talent',
+    kicker: 'Support',
     description:
       'A supporting creator and talent scan used as a pilot for wider Lancashire ambassador and outreach work.',
     highlights: [
@@ -95,7 +146,7 @@ export const researchDocuments: ResearchDocument[] = [
   {
     slug: 'public-talent-map',
     title: 'Public Talent Map: Burnley + Padiham',
-    kicker: 'Talent',
+    kicker: 'Support',
     description:
       'A publishable public-talent layer focused on Burnley and Padiham, covering fashion, beauty, creator and style-business figures with usable division anchors.',
     highlights: [
@@ -112,7 +163,7 @@ export const researchDocuments: ResearchDocument[] = [
   {
     slug: 'tour-monetisation',
     title: 'Tour de France Monetisation',
-    kicker: 'Events',
+    kicker: 'Support',
     description:
       'A Lancashire-focused monetisation and legacy paper for the 2027 Tour de France, covering what LCC can capture, what it cannot, and what past host regions teach.',
     highlights: [
@@ -129,7 +180,7 @@ export const researchDocuments: ResearchDocument[] = [
   {
     slug: 'music-identity',
     title: 'Music and Sonic Identity',
-    kicker: 'Sound',
+    kicker: 'Support',
     description:
       'A Lancashire soundtrack brief covering the strongest county music associations, sonic references, licensing realities and what the main campaign should sound like.',
     highlights: [
@@ -260,6 +311,11 @@ export const spotlightPoints = [
     title: 'Borough and ward views both exist',
     description:
       'The site now has both a borough-level campaign map and a division-level planning layer, so local cutdowns can stay accurate without flattening the county story.',
+  },
+  {
+    title: 'There is now a three-layer strategy',
+    description:
+      'The site now has a clear county strategy, borough strategy and reserve pool, with the older docs preserved underneath as supporting research rather than the main structure.',
   },
   {
     title: 'There is now a public talent layer',

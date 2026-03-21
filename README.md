@@ -4,6 +4,9 @@ This repo turns the Lancashire civic-pride and tourism research into a GitHub Pa
 
 ## Included content
 
+- `content/lancashire_county_strategy.md`
+- `content/lancashire_borough_strategy.md`
+- `content/lancashire_reserve_pool.md`
 - `content/lancashire_brand_platform_and_talent_strategy.md`
 - `content/lancashire_borough_influence_and_business_map.md`
 - `content/lancashire_civic_pride_footage_research.md`

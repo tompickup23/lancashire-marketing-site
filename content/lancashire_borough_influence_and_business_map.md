@@ -39,7 +39,7 @@ Important use note:
 ## Blackpool
 
 - `Current influence`
-  `Jenna Coleman`, `Alfie Boe`, and `Robert Smith` are useful modern cultural names. Blackpool’s real strength, though, is that the town itself already behaves like a national entertainment brand.
+  `Jenna Coleman` and `Robert Smith` are useful modern cultural names. Blackpool’s real strength, though, is that the town itself already behaves like a national entertainment brand.
 
 - `Past legends / legacy icons`
   `George Formby`, `Reginald Dixon`, and the wider ballroom / variety / illuminations tradition give Blackpool an inherited glamour stack that few English places can match.
@@ -243,7 +243,7 @@ Important use note:
 ## Wyre
 
 - `Current influence`
-  Wyre’s clearest public figures are often `business families and enterprise leaders` rather than celebrity names. The `Dewlay` team and the `Fisherman’s Friend` business story are especially useful because they feel unmistakably local.
+  Wyre’s clearest public figures are often `business families and enterprise leaders` rather than celebrity names. `Alfie Boe` is a useful premium cultural name because Fleetwood gives the borough a recognisable musical voice. The `Dewlay` team and the `Fisherman's Friend` business story are especially useful because they feel unmistakably local.
 
 - `Past legends / legacy icons`
   `Sir Peter Hesketh-Fleetwood`, the fishing-port story, and Fleetwood’s harbour heritage give Wyre a strong founding myth and a real industrial-memory layer.

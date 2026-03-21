@@ -15,11 +15,11 @@ export function HomePage() {
           <p className="eyebrow">County brand platform</p>
           <h1 className="hero-title">Lancashire, packaged for the web.</h1>
           <p className="lede">
-            This repo turns the current Lancashire tourism, civic-pride,
-            borough-level, division-level and public-talent research into a
-            website that is easier to scan, share and publish. It keeps the
-            source markdown intact while adding a clearer overview, a readable
-            document layer and a searchable geography view.
+            This repo now structures the Lancashire work into a county strategy,
+            a borough strategy and a reserve pool, then keeps the deeper source
+            research underneath that core architecture. It is designed to be
+            easier to scan, share and publish without losing the underlying
+            working material.
           </p>
           <div className="hero-actions">
             <Link className="button button-primary" to="/divisions">
@@ -40,8 +40,8 @@ export function HomePage() {
             <h2 className="mini-heading">One county, multiple proof layers.</h2>
             <p>
               The strongest Lancashire story here is not just landscape. It is
-              <strong> coast + food + culture + proud towns + future momentum</strong>,
-              with borough, division and public-talent planning data underneath it.
+              <strong> coast + food + culture + proud boroughs + future momentum</strong>,
+              with county, borough, reserve and division layers underneath it.
             </p>
             <div className="pill-row">
               <span className="pill">Tourism</span>
@@ -79,8 +79,9 @@ export function HomePage() {
           <div>
             <h2 className="section-title">Research stack</h2>
             <p className="section-copy">
-              The site is driven directly from the markdown research files, so the
-              narrative layer and the raw analysis stay in sync.
+              The top of the stack is now the county strategy, the borough
+              strategy and the reserve pool. The deeper source files stay in
+              place underneath them.
             </p>
           </div>
         </div>
