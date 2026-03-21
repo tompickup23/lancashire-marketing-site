@@ -13,10 +13,10 @@ export const researchDocuments: ResearchDocument[] = [
     title: 'County Strategy',
     kicker: 'Core',
     description:
-      'The new county-level top sheet covering Lancashire’s master proposition, hero content systems, music, people, products and event logic.',
+      'The county-level master brief for a video-first Lancashire programme, covering the hero film, local-film architecture, proposition, music, people, products and event logic.',
     highlights: [
-      'What Lancashire stands for',
-      'Top-level content and people',
+      'County hero film brief',
+      'How local division films fit underneath',
       'County sound and soundtrack rules',
       'How borough and reserve layers fit underneath',
     ],
@@ -30,12 +30,12 @@ export const researchDocuments: ResearchDocument[] = [
     title: 'Borough Strategy',
     kicker: 'Core',
     description:
-      'A borough-council-area strategy layer showing the role, content, sound, people and proof points for each Lancashire borough or unitary area.',
+      'The creative-control layer for local videos, showing the role, audiences, content, sound, people, proof points and Reform county councillors for each Lancashire borough or unitary area.',
     highlights: [
       '14 borough and unitary strategies',
-      'Per-borough content and music logic',
+      'Per-borough video architecture',
       'People, business and product proof',
-      'Geography anchors for planning',
+      'Division anchors and Reform representation',
     ],
     loadMarkdown: () =>
       import('../../content/lancashire_borough_strategy.md?raw').then(
@@ -115,11 +115,12 @@ export const researchDocuments: ResearchDocument[] = [
     title: 'County Council Division Breakdown',
     kicker: 'Support',
     description:
-      'Division-level Lancashire County Council coverage with visual anchors and footage availability for all 82 current divisions.',
+      'The division-level local-film production layer with visual anchors and footage availability for all 82 current Lancashire County Council divisions.',
     highlights: [
       '82 current Lancashire County Council divisions',
       'Hero visuals per division',
       'Availability scoring',
+      'Local-film production rules',
       'Place-specific media starting points',
     ],
     loadMarkdown: () =>
@@ -308,14 +309,14 @@ export const productSignals = [
 
 export const spotlightPoints = [
   {
-    title: 'Borough and ward views both exist',
+    title: 'The site is now video-first',
     description:
-      'The site now has both a borough-level campaign map and a division-level planning layer, so local cutdowns can stay accurate without flattening the county story.',
+      'The core structure now starts with one county hero film and one local film per county division, with borough strategy acting as the creative bridge between them.',
   },
   {
     title: 'There is now a three-layer strategy',
     description:
-      'The site now has a clear county strategy, borough strategy and reserve pool, with the older docs preserved underneath as supporting research rather than the main structure.',
+      'The site now has a clear county strategy, borough strategy and reserve pool, with the division layer sitting underneath as the exact local production map.',
   },
   {
     title: 'There is now a public talent layer',

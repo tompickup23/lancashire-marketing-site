@@ -4,426 +4,691 @@ Checked on `21 March 2026`.
 
 This is the `borough-level` strategy layer for Lancashire.
 
+It should now be treated as the `creative-control layer` for a video programme built around:
+
+- one county hero film
+- one local film for each Lancashire County Council division
+- later borough cuts, partner edits and event variants
+
 Use borough council areas as the main local place-marketing geography, not a loose town list.
+
+The borough layer exists to stop the local films becoming a random pile of landmarks.
 
 Each borough strategy should answer:
 
-- `What role does this borough play in the county story?`
-- `What content should lead?`
-- `What should it sound like?`
-- `Who should front it?`
-- `What business, product or event proof should support it?`
+- `What civic-pride idea should this place project?`
+- `Which audiences matter most?`
+- `What is this borough's job in the county film?`
+- `How should the local films inside this borough feel?`
+- `What should they sound like?`
+- `Who, what and which institutions prove the story?`
 
-## 1. Borough use rules
+Use note:
 
-- keep every borough visibly tied to the county proposition
-- do not try to make every borough do every job
-- use a different tonal mix by borough, but keep the same county brand family
-- where possible, keep county-council divisions as planning anchors underneath the borough layer
+- for county-council areas, treat `divisions` as the local video units
+- for `Blackpool` and `Blackburn with Darwen`, use borough `wards` if local versions are commissioned
+- for the exact `82-division` production map, use the separate division breakdown document
 
 Reform-councillor note:
 
-- the `Reform county councillor` lines below are based on the official `Lancashire County Council election, full council, 1 May 2025` results document
+- the `Reform county councillors` lines below are based on the official `Lancashire County Council election, full council, 1 May 2025` results document
 - `Blackpool` and `Blackburn with Darwen` are unitary authorities, so they sit outside Lancashire County Council county-councillor geography
 
 ## Blackburn with Darwen
 
-- `Borough role`
-  Making culture, football memory, clean energy and industrial confidence.
+- `Civic-pride line`
+  Productive, self-made and culturally alive.
 
-- `Priority content`
-  Blackburn Cathedral, Festival of Making atmosphere, Blackburn Rovers memory, maker spaces, civic streets, Lancashire Tea, business and innovation imagery.
+- `County job`
+  Give Lancashire a confident urban-maker story: football memory, faith and civic architecture, making culture, clean energy and modern business.
+
+- `Priority audiences`
+  Residents and homecomers, maker-culture visitors, football and heritage audiences, and partners interested in clean energy, digital and town-centre renewal.
+
+- `Video architecture`
+  County hero film: use Blackburn with Darwen to prove that Lancashire is not only scenic.
+  Borough film: balance cathedral and civic dignity with maker energy and industrial confidence.
+  Ward films: build around Blackburn centre, Darwen hill-edge identity, Rovers memory, Festival of Making streets and productive business settings.
+
+- `Hero content pillars`
+  Civic streets and cathedral scale, Rovers and public memory, making and festival culture, clean-energy and innovation proof.
+
+- `Visual system`
+  Stone and brick civic fabric, market and town-centre motion, hands-on making detail, football texture and stronger urban colour than the coast.
 
 - `Sound`
-  industrial percussion, choir lift, confident modern pulse.
+  Industrial percussion, low brass, choir lift and a clean modern pulse.
 
-- `People`
-  `AJ Odudu` as the cleanest current face.
-  Legacy support: `Barbara Castle`, `Jack Walker`.
+- `People and institutions`
+  `AJ Odudu` is the cleanest current face.
+  Legacy weight comes from `Barbara Castle` and `Jack Walker`.
+  Institutional proof matters just as much: `Blackburn Cathedral`, `Blackburn Rovers`, `National Festival of Making`.
 
-- `Business and proof`
+- `Business, product and proof`
   `Vital Energi`, `Lancashire Tea`, `Blackburn Cyber Campus and Innovation Quarter`, `National Festival of Making`.
 
+- `Best moments and seasonal windows`
+  Festival season, matchday, market-day town-centre footage, dusk civic-lighting shots and winter interiors where making and business read well on camera.
+
 - `Geography`
-  `Outside Lancashire County Council divisions`.
+  Use borough wards for local versions. There is no Lancashire County Council division layer here.
 
 - `Reform county councillors`
   None in Lancashire County Council geography because Blackburn with Darwen is a unitary authority.
 
-- `Strategic use`
-  Use Blackburn with Darwen when Lancashire needs to look capable, productive and current rather than purely scenic.
+- `Execution rule`
+  Do not market Blackburn with Darwen as generic northern grit. It works when it looks capable, inventive and proud.
 
 ## Blackpool
 
-- `Borough role`
-  Spectacle, entertainment, glamour and visible public confidence.
+- `Civic-pride line`
+  Lancashire's showtown: theatrical, resilient and impossible to ignore.
 
-- `Priority content`
-  Tower, ballroom, promenade, illuminations, Winter Gardens, Pleasure Beach, Showtown, crowd energy, nightlife.
+- `County job`
+  Bring spectacle, glamour, entertainment and national recognisability into the county story.
+
+- `Priority audiences`
+  Residents and homecomers, family and nostalgia visitors, dance and culture audiences, weekend leisure markets and digital-economy partners.
+
+- `Video architecture`
+  County hero film: use Blackpool when Lancashire needs scale, joy, movement and instant recognition.
+  Borough film: show that Blackpool is not only nostalgia, but a live entertainment machine with new digital ambition.
+  Ward films: build around the Tower, promenade, Winter Gardens, Pleasure Beach, the ballroom world, Showtown and neighbourhood public life.
+
+- `Hero content pillars`
+  Tower and promenade spectacle, ballroom and illuminations heritage, crowds and performance, Silicon Sands and digital-future proof.
+
+- `Visual system`
+  Long horizons, bright lights, polished interiors, kinetic crowd scenes, sunset sea light and a stronger sense of performance than any other Lancashire borough.
 
 - `Sound`
-  Wurlitzer motif, ballroom rhythm, elegant strings, brighter pop lift.
+  Wurlitzer colour, ballroom rhythm, elegant strings and brighter pop lift.
 
-- `People`
-  `Jenna Coleman` as the clearest modern screen face.
-  Legacy support: `George Formby`, `Reginald Dixon`.
+- `People and institutions`
+  `Jenna Coleman` is the clearest modern screen face.
+  Legacy support comes from `George Formby` and `Reginald Dixon`.
+  Institutional proof matters heavily: `Blackpool Tower`, `Winter Gardens`, `Pleasure Beach`, `Showtown`.
 
-- `Business and proof`
-  `Silicon Sands`, `Pleasure Beach`, `Winter Gardens`, `Blackpool Dance Festival`, visitor economy scale.
+- `Business, product and proof`
+  `Silicon Sands`, `Blackpool Pleasure Beach`, `Winter Gardens`, `Blackpool Dance Festival`, visitor-economy scale.
+
+- `Best moments and seasonal windows`
+  Dawn promenade, golden-hour seafront, Dance Festival period, summer crowds, autumn shoulder season and illuminations nights.
 
 - `Geography`
-  `Outside Lancashire County Council divisions`.
+  Use borough wards for local versions. There is no Lancashire County Council division layer here.
 
 - `Reform county councillors`
   None in Lancashire County Council geography because Blackpool is a unitary authority.
 
-- `Strategic use`
-  Use Blackpool when the county needs national recognisability, movement and spectacle.
+- `Execution rule`
+  Do not reduce Blackpool to kitsch. It works when glamour, joy and show-business memory are paired with real current confidence.
 
 ## Burnley
 
-- `Borough role`
-  Grit, enterprise, advanced textiles, football memory and strong modern character.
+- `Civic-pride line`
+  Hard town, smart town, unmistakably itself.
 
-- `Priority content`
-  Weavers' Triangle, town core, Towneley orbit, Singing Ringing Tree, premium hospitality, maker texture, Burnley / Padiham style-business content.
+- `County job`
+  Carry grit, enterprise, football memory, moorland drama and East Lancashire confidence.
+
+- `Priority audiences`
+  Residents and homecomers, football and heritage audiences, moorland and walking visitors, hospitality users and partners interested in manufacturing or town renewal.
+
+- `Video architecture`
+  County hero film: Burnley gives Lancashire toughness, town scale and East Lancashire character.
+  Borough film: Burnley should feel like a comeback town with edge, beauty and ambition.
+  Division films: rotate between Weavers' Triangle, Towneley, Singing Ringing Tree, Padiham high street, Burnley civic streets and the Pennine edge.
+
+- `Hero content pillars`
+  Town and football pride, mills and canals, moorland icons, hospitality and maker economy.
+
+- `Visual system`
+  Darker stone and brick, canal reflections, crowd energy, Pennine weather, premium interiors and stronger night-time texture than many Lancashire towns.
 
 - `Sound`
-  Burnley edge and modernity: `Cody Frost` energy with choir and industrial pulse underneath.
+  Industrial pulse, choir drive and a sharper modern edge, with `Cody Frost` energy as the outer limit rather than the whole soundtrack.
 
-- `People`
+- `People and institutions`
   `Sir James Anderson`, `Dave Fishwick`, `Cody Frost`.
   Borough support: `Briony Gorton`, `Dean Overson`, `Elise Munroe`.
+  Institutional proof: `Burnley FC`, `Towneley Hall`, `Weavers' Triangle`.
 
-- `Business and proof`
+- `Business, product and proof`
   `Panaz`, `Crow Wood`, Burnley making and hospitality, creator and beauty economy around Burnley and Padiham.
 
+- `Best moments and seasonal windows`
+  Matchday, blue-hour town footage, golden hour at the Singing Ringing Tree, winter moor light and busy hospitality interiors.
+
 - `Geography`
-  `Burnley Central East`, `Burnley Central West`, `Burnley North East`, `Burnley South West`, `Padiham and Burnley West`.
+  Core division clusters: `Burnley Central East`, `Burnley Central West`, `Burnley North East`, `Burnley Rural`, `Burnley South West`, `Padiham and Burnley West`.
 
 - `Reform county councillors`
   `Liam Thomson` (`Burnley Central West`), `Mark Poulton` (`Burnley Rural`), `Eddie Kutavicius` (`Burnley South West`), `Thomas Pickup` (`Padiham and Burnley West`).
 
-- `Strategic use`
-  Use Burnley when Lancashire needs toughness, entrepreneurship and modern town confidence.
+- `Execution rule`
+  Do not make Burnley a misery montage. The story is toughness plus style plus real modern ambition.
 
 ## Chorley
 
-- `Borough role`
-  Market-town warmth, civic seriousness, town renewal and family-friendly prosperity.
+- `Civic-pride line`
+  Warm, rooted and quietly successful.
 
-- `Priority content`
-  Astley Hall, market activity, town-centre public life, food and craft market, green corridors, surrounding rural edge.
+- `County job`
+  Give Lancashire market-town warmth, civic seriousness, food-market life and believable family prosperity.
+
+- `Priority audiences`
+  Residents and homecomers, family day visitors, market and food audiences, local-business partners and audiences who want a calmer, trustworthy Lancashire story.
+
+- `Video architecture`
+  County hero film: Chorley should act as the county's warmth and everyday public-life proof.
+  Borough film: balance Astley Hall grandeur with lived-in town-centre confidence.
+  Division films: work through Astley Hall, market-day energy, Yarrow Valley, town-centre improvements and the rural edge.
+
+- `Hero content pillars`
+  Astley Hall and civic memory, market and food life, family-friendly greenspace, growth-sector ambition.
+
+- `Visual system`
+  Parks, market stalls, hall interiors, civic squares, family activity and a softer colour temperature than East Lancashire mill towns.
 
 - `Sound`
-  brass and choir warmth, steady civic rhythm, lighter market-day energy.
+  Brass and choir warmth, steady civic rhythm and lighter market-day energy.
 
-- `People`
+- `People and institutions`
   `Sir Lindsay Hoyle`, `Steve Pemberton`.
   Support: `Kevin Simm`, `Loui Batley`.
+  Institutional proof: `Astley Hall`, Chorley markets and public-realm renewal.
 
-- `Business and proof`
-  advanced-manufacturing and green-growth ambitions, town-centre improvements, food market, `Frederick's Ice Cream`.
+- `Business, product and proof`
+  Advanced-manufacturing and green-growth ambitions, town-centre improvements, food market, `Frederick's Ice Cream`.
+
+- `Best moments and seasonal windows`
+  Market days, spring and summer park footage, food-and-craft events, early evening high street activity and clean daytime civic shots.
 
 - `Geography`
-  `Chorley Central`, `Chorley Rural East`, `Chorley Rural West`, `Chorley South`.
+  Core division clusters: `Chorley Central`, `Chorley North`, `Chorley Rural East`, `Chorley Rural West`, `Chorley South`, `Euxton, Buckshaw & Astley`. Use the division breakdown for edge cases that cross borough identity.
 
 - `Reform county councillors`
   `Martin Topp` (`Chorley North`), `Mark Wade` (`Chorley Rural West`), `Lee Hutchinson` (`Chorley South`).
 
-- `Strategic use`
-  Use Chorley when the county needs warmth, rootedness and local public-life credibility.
+- `Execution rule`
+  Do not make Chorley feel bland. It works when ordinary public life looks genuinely desirable and well-kept.
 
 ## Fylde
 
-- `Borough role`
-  Coastal prestige, festival polish, golf, aviation and premium hospitality.
+- `Civic-pride line`
+  Polished coast with hard industrial intelligence underneath.
 
-- `Priority content`
-  Lytham Green and Windmill, St Annes seafront, Fairhaven, Royal Lytham, festival imagery, Warton and advanced aerospace visuals where appropriate.
+- `County job`
+  Give Lancashire coastal prestige, festival polish, golf credibility and aerospace seriousness.
+
+- `Priority audiences`
+  Residents and homecomers, affluent weekend visitors, golf and festival audiences, and business or supply-chain audiences who need a premium impression.
+
+- `Video architecture`
+  County hero film: use Fylde for premium coast and composed modern confidence.
+  Borough film: hold together seafront elegance with Warton and advanced industry.
+  Division films: organise around Lytham, St Annes, Fairhaven, golf, estuary light, Warton and the rural Fylde plain.
+
+- `Hero content pillars`
+  Lytham and St Annes elegance, festival and golf prestige, aerospace and aviation proof.
+
+- `Visual system`
+  High-key coastal light, clean horizons, precise framing, luxury-hospitality detail and a calmer visual tempo than Blackpool.
 
 - `Sound`
-  elegant strings, coastal pop softness, precise modern rhythm.
+  Elegant strings, coastal pop softness and a precise modern rhythm.
 
-- `People`
-  institution-led first, people second.
+- `People and institutions`
+  Institution-led first, people second.
   Useful legacy names: `Les Dawson`, `George Formby`.
+  Institutional anchors: `Royal Lytham & St Annes`, `Lytham Festival`, `BAE Systems Warton`.
 
-- `Business and proof`
-  `BAE Systems Warton`, `Lytham Festival`, `Royal Lytham & St Annes`, visitor economy performance.
+- `Business, product and proof`
+  `BAE Systems Warton`, `Lytham Festival`, `Royal Lytham & St Annes`, visitor-economy performance.
+
+- `Best moments and seasonal windows`
+  Summer seafront, dawn estuary shots, festival nights, golf championship periods, winter sea light and sunset Fairhaven footage.
 
 - `Geography`
-  `Lytham`, `St Annes North`, `St Annes South`, `Fylde East`, `Fylde West`.
+  Core division clusters: `Lytham`, `St Annes North`, `St Annes South`, `Fylde East`, `Fylde South`, `Fylde West`.
 
 - `Reform county councillors`
   `Joshua Connor Roberts` (`Fylde East`), `David Michael Dwyer` (`Fylde South`).
 
-- `Strategic use`
-  Use Fylde when Lancashire needs to look premium, composed and nationally credible.
+- `Execution rule`
+  Do not make Fylde look like empty affluence. It needs premium coast plus serious aerospace substance.
 
 ## Hyndburn
 
-- `Borough role`
-  Regeneration, literary seriousness, industrial memory and comeback energy.
+- `Civic-pride line`
+  Tough memory, visible comeback.
 
-- `Priority content`
-  Accrington town centre, Haworth Art Gallery, Tiffany-glass association, Nori and Pals memory, high-street improvement story.
+- `County job`
+  Give Lancashire regeneration, literary seriousness, industrial memory and comeback energy.
+
+- `Priority audiences`
+  Residents and homecomers, heritage audiences, civic and funding partners, shoppers and businesses who need to see visible town-centre change.
+
+- `Video architecture`
+  County hero film: use Hyndburn to prove that Lancashire's town story includes renewal, not only nostalgia.
+  Borough film: balance Accrington's grit with a clear sense of turnaround.
+  Division films: build around Accrington centre, Haworth Art Gallery, Oswaldtwistle mill and canal texture, and Great Harwood or Rishton local identity.
+
+- `Hero content pillars`
+  Town-centre comeback, industrial memory, literary and gallery credibility, East Lancashire public-life texture.
+
+- `Visual system`
+  Brick and stone, tighter streets, hill-backed skylines, art-glass detail and practical public-space upgrades rather than glossy spectacle.
 
 - `Sound`
-  grounded choir, slower industrial pulse, East Lancashire town texture.
+  Grounded choir, slower industrial pulse and East Lancashire town texture.
 
-- `People`
+- `People and institutions`
   `Jeanette Winterson`.
+  Legacy weight comes from the `Accrington Pals`, `Accrington Nori` and `Haworth Art Gallery / Tiffany glass` story.
 
-- `Business and proof`
-  Accrington Town Square regeneration, Great Harwood high-street work, business grants, town-centre renewal.
+- `Business, product and proof`
+  Accrington Town Square regeneration, Great Harwood high-street work, business grants and town-centre renewal.
+
+- `Best moments and seasonal windows`
+  Market and high-street days, civic project milestones, autumn and winter when brick, smoke and street lighting look strongest.
 
 - `Geography`
-  `Accrington North`, `Accrington South`, `Accrington West & Oswaldtwistle Central`, `Oswaldtwistle`.
+  Core division clusters: `Accrington North`, `Accrington South`, `Accrington West & Oswaldtwistle Central`, `Great Harwood, Rishton & Clayton-le-Moors`, `Oswaldtwistle`.
 
 - `Reform county councillors`
   `Joel Michael Tetlow` (`Accrington North`), `Ashley Joynes` (`Accrington South`), `Jordan John Fox` and `Lance Miles Lee Parkinson` (`Great Harwood, Rishton & Clayton-le-Moors`), `Gaynor Louise Hargreaves` (`Oswaldtwistle`).
 
-- `Strategic use`
-  Use Hyndburn when Lancashire needs seriousness, memory and visible turnaround.
+- `Execution rule`
+  Do not oversell Hyndburn with empty uplift language. It works when the evidence of comeback is concrete and visible.
 
 ## Lancaster
 
-- `Borough role`
-  Heritage, university power, bay identity and Eden-scale optimism.
+- `Civic-pride line`
+  Historic, brainy, bay-facing and moving forward.
 
-- `Priority content`
-  Lancaster Castle and streets, Morecambe promenade, Midland Hotel orbit, Eden Project Morecambe, university and canal-quarter visuals, Heysham heritage.
+- `County job`
+  Give Lancashire heritage, university power, bay identity and Eden-scale optimism.
+
+- `Priority audiences`
+  Residents and homecomers, short-break and culture visitors, students and families, and partners interested in regeneration or knowledge economy.
+
+- `Video architecture`
+  County hero film: use Lancaster district to give the county charm, hope and visible future momentum.
+  Borough film: keep Lancaster city, Morecambe bayfront and Heysham heritage in one coherent emotional system.
+  Division films: organise around Lancaster Castle and streets, the promenade and bay light, Heysham's cliff-edge heritage, Skerton's bridges and the rural northern edge.
+
+- `Hero content pillars`
+  Historic city and castle, bay coast and promenade, Eden and university future, Heysham heritage and energy.
+
+- `Visual system`
+  Golden bay light, Georgian masonry, promenade geometry, canal and bridge lines and a stronger light-and-air quality than inland boroughs.
 
 - `Sound`
-  choir, bay percussion, More Music street energy, cinematic strings.
+  Choir, bay percussion, More Music street energy and cinematic strings.
 
-- `People`
+- `People and institutions`
   `Wayne Hemingway`, `Cedric Robinson`.
   Legacy support: `Eric Morecambe`, `Thora Hird`.
+  Institutional proof: `Lancaster University`, `Eden Project Morecambe`, Lancaster Castle.
 
-- `Business and proof`
-  `Lancaster University`, `Eden Project Morecambe`, `Heysham`, Canal Quarter, tourism economy strength.
+- `Business, product and proof`
+  `Lancaster University`, `Eden Project Morecambe`, `Heysham`, Canal Quarter, tourism-economy strength.
+
+- `Best moments and seasonal windows`
+  Sunset and blue-hour bay footage, Baylight, festival periods, student-term energy, winter sea light and visible Eden progress.
 
 - `Geography`
-  `Lancaster Central`, `Heysham`, `Morecambe Central`, `Morecambe North`, `Morecambe South`, `Lancaster Rural North`.
+  Core division clusters: `Lancaster Central`, `Lancaster East`, `Lancaster Rural East`, `Lancaster Rural North`, `Lancaster South East`, `Heysham`, `Morecambe Central`, `Morecambe North`, `Morecambe South`, `Skerton`.
 
 - `Reform county councillors`
   `Graeme Paul Austin` (`Heysham`), `Shaun Patrick Crimmins` (`Lancaster Rural East`), `Graham John Dalton` (`Lancaster Rural North`), `Gary Andrew Kniveton` (`Morecambe Central`), `Russell Robert Walsh` (`Morecambe North`), `Brian Edward Moore` (`Morecambe South`), `Martyn Sutton` (`Skerton`).
 
-- `Strategic use`
-  Use Lancaster district when Lancashire needs hope, charm, sea light and big regeneration momentum.
+- `Execution rule`
+  Do not let Lancaster district split into unrelated city and seaside films. The strength is the transition from heritage city to bay future.
 
 ## Pendle
 
-- `Borough role`
-  Myth, hill country, cycling and advanced manufacturing.
+- `Civic-pride line`
+  Myth, climb, craft and hard economic substance.
 
-- `Priority content`
-  Pendle Hill, Barley, witch-trail iconography, Nelson / Colne town energy, manufacturing interiors, cycling roads, valley heritage.
+- `County job`
+  Give Lancashire its strongest symbolic hill country, elite cycling roads and advanced-manufacturing proof.
+
+- `Priority audiences`
+  Residents and homecomers, walkers and cyclists, folklore and heritage audiences, and partners who need to see that Pendle is economically serious as well as atmospheric.
+
+- `Video architecture`
+  County hero film: Pendle gives Lancashire one of its most ownable visual icons.
+  Borough film: avoid witch-only cliche by holding hill country, town life and manufacturing together.
+  Division films: work through Pendle Hill and Barley, Nelson and Brierfield, Colne and Barnoldswick, reservoirs, roads and factory interiors.
+
+- `Hero content pillars`
+  Hill and myth, cycling and road drama, town regeneration, advanced manufacturing.
+
+- `Visual system`
+  Ridgelines, mist, reservoirs, long roads, valley-town texture and a darker, more atmospheric palette than the coast.
 
 - `Sound`
-  atmospheric folk edge, choir lift, cycling pulse, darker drama than the coast.
+  Atmospheric folk edge, choir lift, cycling pulse and darker cinematic tension.
 
-- `People`
+- `People and institutions`
   `Steven Burke`.
   Legacy support: `Pendle Witches`, `Wallace Hartley`.
+  Institutional and product proof: `Hope Technology`, `Silentnight`, `Rolls-Royce Barnoldswick`.
 
-- `Business and proof`
+- `Business, product and proof`
   `Silentnight`, `Rolls-Royce Barnoldswick`, `Hope Technology`, `Buoyant`, PEARL, Nelson Town Deal.
 
+- `Best moments and seasonal windows`
+  Dawn hill shots, cycling season, autumn mists, spring green valleys, winter town-light contrast and visible regeneration milestones.
+
 - `Geography`
-  `Pendle Central`, `Pendle Hill`, `Pendle Rural`, `Nelson East`, `Brierfield & Nelson West`.
+  Core division clusters: `Brierfield & Nelson West`, `Nelson East`, `Pendle Central`, `Pendle Hill`, `Pendle Rural`.
 
 - `Reform county councillors`
   `Marion Ellen Atkinson` (`Pendle Central`), `Nathan Thomas McCollum` (`Pendle Rural`).
 
-- `Strategic use`
-  Use Pendle when Lancashire needs myth, climb-country and hard economic substance together.
+- `Execution rule`
+  Do not sell Pendle as haunted scenery only. The borough works when myth and making live in the same frame.
 
 ## Preston
 
-- `Borough role`
-  Modern civic core, football heritage, creativity, retail and skills.
+- `Civic-pride line`
+  Lancashire's warm, capable civic core.
 
-- `Priority content`
-  Harris and Flag Market, city streets, Avenham and riverside, Brockholes, university, retail and logistics, animation and design references.
+- `County job`
+  Give Lancashire an all-round city anchor with public life, football heritage, creativity, retail strength and future skills.
+
+- `Priority audiences`
+  Residents and homecomers, city-break and day visitors, students and families, and investors or employers who need a confident urban base.
+
+- `Video architecture`
+  County hero film: use Preston when Lancashire needs a recognisable city heartbeat.
+  Borough film: balance Harris and Flag Market dignity with riverside greenery, football memory and a modern skills story.
+  Division films: organise around the civic core, Avenham and the river, Brockholes, the docks, suburban neighbourhoods and the rural edge.
+
+- `Hero content pillars`
+  Civic city and public institutions, football and creative talent, retail and logistics strength, parks and riverside quality.
+
+- `Visual system`
+  Strong civic axes, bridges and riverside motion, cleaner modern lines than many Lancashire towns and a more open green frame than many English cities.
 
 - `Sound`
-  optimistic modern orchestral lift, choir, civic confidence, cleaner beat than Burnley or Pendle.
+  Optimistic modern orchestral lift, choir, civic confidence and a cleaner beat than Burnley or Pendle.
 
-- `People`
+- `People and institutions`
   `Nick Park`, `Ranvir Singh`, `Holly Bradshaw`.
   Legacy support: `Sir Tom Finney`, `Edith Rigby`.
+  Institutional proof: the `Harris`, `Flag Market`, the university and football heritage.
 
-- `Business and proof`
+- `Business, product and proof`
   `Booths`, `James Hall & Co`, `University of Lancashire`, skills and logistics.
 
+- `Best moments and seasonal windows`
+  City events, spring and summer parks, evening civic lighting, football weekends and student-term energy.
+
 - `Geography`
-  `Preston Central East`, `Preston City`, `Preston East`, `Preston Rural`, `Preston South West`.
+  Core division clusters: `Preston Central East`, `Preston Central West`, `Preston City`, `Preston East`, `Preston North`, `Preston Rural`, `Preston South East`, `Preston South West`, `Preston West`.
 
 - `Reform county councillors`
   `Luke Parker` (`Preston East`), `Maria Jones` (`Preston Rural`).
 
-- `Strategic use`
-  Use Preston when Lancashire needs an all-round city anchor with brains, warmth and recognisable public life.
+- `Execution rule`
+  Do not make Preston look anonymous. It needs civic pride, recognisable public space and visible lived-in confidence.
 
 ## Ribble Valley
 
-- `Borough role`
-  Landscape prestige, food quality, hospitality and affluent rural confidence.
+- `Civic-pride line`
+  Quality without pretence.
 
-- `Priority content`
-  Clitheroe Castle, valley roads, village texture, premium food, Northcote, cheese and produce storytelling, Bowland-facing views.
+- `County job`
+  Give Lancashire landscape prestige, food quality, hospitality confidence and affluent rural calm.
+
+- `Priority audiences`
+  Residents and homecomers, affluent visitors, walkers, food-led weekend audiences and hospitality or wedding markets.
+
+- `Video architecture`
+  County hero film: use Ribble Valley when Lancashire needs care, quality and premium rural credibility.
+  Borough film: show that quality here comes from land, craft and hospitality, not generic luxury tropes.
+  Division films: organise around Clitheroe, castle and market-town life, valley roads, village texture, Bowland-facing views and food producers.
+
+- `Hero content pillars`
+  Landscape and roads, food and hospitality, market-town and heritage, premium rural quality.
+
+- `Visual system`
+  Restrained, warm, textured and premium without gloss: long valley views, stone villages, table settings, shopfronts and road movement.
 
 - `Sound`
-  acoustic warmth, restrained strings, choir glow, premium but not fussy.
+  Acoustic warmth, restrained strings, choir glow and premium calm without fussiness.
 
-- `People`
+- `People and institutions`
   `Nigel Haworth`.
   Stakeholder support: `Stephen Atkinson`.
+  Institutional proof: `Northcote`, `Mrs Kirkham's`, Clitheroe Castle and Bowland-facing tourism.
 
-- `Business and proof`
+- `Business, product and proof`
   `Northcote`, `Mrs Kirkham's`, high-value hospitality, food and tourism quality.
 
+- `Best moments and seasonal windows`
+  Golden-hour drives, spring and autumn walking weather, food events, winter interiors and village-centre weekend footage.
+
 - `Geography`
-  `Clitheroe`, `Ribble Valley North East`, `Ribble Valley South West`.
+  Core division clusters: `Clitheroe`, `Longridge with Bowland`, `Ribble Valley North East`, `Ribble Valley South West`.
 
 - `Reform county councillors`
   `Warren Goldsworthy` (`Clitheroe`), `Ian Duxbury` (`Longridge with Bowland`), `Ged Mirfin` (`Ribble Valley North East`), `Steve Atkinson` (`Ribble Valley South West`).
 
-- `Strategic use`
-  Use Ribble Valley when Lancashire needs quality, care, craft and affluent rural calm.
+- `Execution rule`
+  Do not make Ribble Valley feel fake-posh. It should feel careful, rooted and genuinely high-quality.
 
 ## Rossendale
 
-- `Borough role`
-  Creative valley identity, walking credibility, digital upskilling and distinctive local culture.
+- `Civic-pride line`
+  Creative valley identity with weather, grit and personality.
 
-- `Priority content`
-  valley towns, upland roads, The Whitaker, civic arts, digital-tech story, Coconut Dancers and performance heritage, weather and ridge lines.
+- `County job`
+  Give Lancashire artistic weirdness, valley culture, walking credibility and visible comeback energy.
+
+- `Priority audiences`
+  Residents and homecomers, walkers and outdoors audiences, arts and culture users, and partners interested in skills, regeneration and town-centre renewal.
+
+- `Video architecture`
+  County hero film: Rossendale gives Lancashire its moodiest valley drama and one of its most distinctive cultural textures.
+  Borough film: keep the borough strange, creative and atmospheric rather than interchangeable moorland.
+  Division films: work through Rawtenstall, Bacup, Haslingden, Whitworth, The Whitaker and ridge-line weather.
+
+- `Hero content pillars`
+  Valley landscapes and roads, cultural institutions and performance heritage, digital-skills and regeneration story, walking and weather.
+
+- `Visual system`
+  Steep valley sides, moody light, brick mills, upland roads, arts spaces and a darker cinematic tone than the coast or central Lancashire.
 
 - `Sound`
-  male-voice tradition, moody choral lift, valley percussion, slightly darker cinematic tone.
+  Male-voice tradition, moody choral lift, valley percussion and slightly darker cinematic tone.
 
-- `People`
+- `People and institutions`
   `Jane Horrocks`.
+  Legacy support: the `Bacup Britannia Coconut Dancers`.
+  Institutional proof: `The Whitaker`, `Rossendale Works`, the digital-tech and pride-in-place programmes.
 
-- `Business and proof`
+- `Business, product and proof`
   `Digital Tech Hub`, IN4-backed skills story, regeneration, Rossendale Works, Pride in Place.
 
+- `Best moments and seasonal windows`
+  Autumn and winter weather days, ridgeline dawn or dusk, public events, arts activity and illuminated valley streets.
+
 - `Geography`
-  `Mid Rossendale`, `Rossendale East`, `Rossendale South`, `Rossendale West`.
+  Core division clusters: `Mid Rossendale`, `Rossendale East`, `Rossendale South`, `Rossendale West`, `Whitworth & Bacup`.
 
 - `Reform county councillors`
   `Clive Balchin` (`Mid Rossendale`), `Mackenzie Lee Ritson` (`Rossendale East`), `Joanne Ash` (`Rossendale South`).
 
-- `Strategic use`
-  Use Rossendale when Lancashire needs artistic weirdness, valley culture and comeback energy.
+- `Execution rule`
+  Do not flatten Rossendale into generic moorland. It works when valley culture and local oddness stay visible.
 
 ## South Ribble
 
-- `Borough role`
-  Innovation corridor, national-scale jobs, hydrogen, aerospace supply chain.
+- `Civic-pride line`
+  Future-work Lancashire with ordinary-life warmth around it.
 
-- `Priority content`
-  Samlesbury corridor, enterprise and manufacturing imagery, Leyland heritage, Samlesbury Hall, innovation-hub visuals, cleaner modern employment settings.
+- `County job`
+  Give Lancashire hard economic credibility: innovation corridor, national-scale jobs, advanced manufacturing and hydrogen.
+
+- `Priority audiences`
+  Residents and families, supply-chain and investment audiences, skilled workers, students and partners who need to see a modern employment corridor with livable places around it.
+
+- `Video architecture`
+  County hero film: use South Ribble when Lancashire needs future-industry proof.
+  Borough film: avoid sterile business-park imagery by mixing innovation with Leyland heritage, Penwortham life and Samlesbury Hall.
+  Division films: organise around Samlesbury and enterprise-zone visuals, Leyland, Penwortham, Lostock Hall and the family-oriented neighbourhood layer.
+
+- `Hero content pillars`
+  Innovation corridor and enterprise zone, manufacturing and logistics, family settlement and daily life, historic anchors and transport links.
+
+- `Visual system`
+  Precise, clean and modern, with road movement, industrial interiors, suburban calm and less heritage texture than East Lancashire.
 
 - `Sound`
-  precise rhythmic pulse, modern low-end, less heritage-coloured than other boroughs.
+  Precise rhythmic pulse, modern low end and cleaner percussion than the rest of the county.
 
-- `People`
-  stakeholder-led rather than celebrity-led.
+- `People and institutions`
+  Stakeholder-led rather than celebrity-led.
   Borough support: `Tom Lord`.
+  Institutional proof: `Samlesbury Innovation Hub`, `AMRC North West`, `Leyland Trucks`, `Samlesbury Hall`.
 
-- `Business and proof`
+- `Business, product and proof`
   `Samlesbury Innovation Hub`, `Samlesbury Enterprise Zone`, `AMRC North West`, `Leyland Trucks`, `Budweiser / Protium hydrogen`, Lancashire Central.
 
+- `Best moments and seasonal windows`
+  Announcement days, launch periods, dawn transport-corridor footage, clean interior shooting windows and summer or autumn family-life visuals around Penwortham and Leyland.
+
 - `Geography`
-  `South Ribble East`, `South Ribble West`, `Penwortham West`.
+  Core division clusters: `Leyland Central`, `Leyland South`, `Lostock Hall & Bamber Bridge`, `Moss Side & Farington`, `Penwortham East & Walton-le-Dale`, `Penwortham West`, `South Ribble East`, `South Ribble West`.
 
 - `Reform county councillors`
   `Hannah Alice Whalley` (`Leyland Central`), `Ellie Close` (`Leyland South`), `Simon Gummer` (`Lostock Hall & Bamber Bridge`), `Andy Blake` (`Moss Side and Farington`), `Lorenzo More` (`Penwortham East & Walton-le-Dale`), `Fred Cottam` (`South Ribble East`), `Tom Lord` (`South Ribble West`).
 
-- `Strategic use`
-  Use South Ribble when Lancashire needs hard economic credibility and future-industry proof.
+- `Execution rule`
+  Do not let South Ribble become a corporate brochure. Its strength is future industry plus real everyday livability.
 
 ## West Lancashire
 
-- `Borough role`
-  Food production, logistics, town reinvention and a cleaner modern growth story than many outsiders expect.
+- `Civic-pride line`
+  Productive, independent and underestimated.
 
-- `Priority content`
-  Ormskirk, Burscough, Martin Mere, productive landscapes, farm and food visuals, Skelmersdale reinvention, market-town texture.
+- `County job`
+  Give Lancashire food production, logistics, market-town warmth and a cleaner reinvention story than many outsiders expect.
+
+- `Priority audiences`
+  Residents and homecomers, food and farm-shop audiences, family visitors, business-support audiences and people who need to see Skelmersdale as more than a stereotype.
+
+- `Video architecture`
+  County hero film: West Lancashire proves that the county's food story is real and contemporary.
+  Borough film: hold together Ormskirk and Burscough charm, productive landscape and Skelmersdale reinvention.
+  Division films: build around Ormskirk, Burscough and Rufford, Martin Mere, productive farmland, Skelmersdale and canal or market-town texture.
+
+- `Hero content pillars`
+  Food production and product brands, markets and canal towns, reinvention and masterplanning, productive landscape.
+
+- `Visual system`
+  Flat productive horizons, glasshouse or packing detail, market-town streets, wetland spectacle and a shift from earthy rural colour into cleaner new-town geometry.
 
 - `Sound`
-  earthy acoustic rhythm, lighter field-recording feel, then stronger modern beat for Skelmersdale / growth content.
+  Earthy acoustic rhythm and field-recording feel, then a stronger modern beat for Skelmersdale and growth content.
 
-- `People`
+- `People and institutions`
   `Jessica Gagen` as the clearest crossover name.
+  Founder and product stories matter heavily here.
+  Institutional proof: Ormskirk market, Martin Mere and Skelmersdale regeneration work.
 
-- `Business and proof`
+- `Business, product and proof`
   `Flavourfresh`, `Fiddler's Lancashire Crisps`, `Walkers West Pimbo`, collaborative innovation programme, Skelmersdale masterplan.
 
+- `Best moments and seasonal windows`
+  Harvest season, market days, spring wetland colour, canal-side summer footage and regeneration milestone moments.
+
 - `Geography`
-  `Burscough & Rufford`, `West Lancashire East`, `West Lancashire North`, `West Lancashire West`.
+  Core division clusters: `Burscough & Rufford`, `Ormskirk`, `Skelmersdale Central`, `Skelmersdale East`, `Skelmersdale West`, `West Lancashire East`, `West Lancashire North`, `West Lancashire West`.
 
 - `Reform county councillors`
   `Richard Edwards` (`Burscough & Rufford`), `Simon Evans` (`Skelmersdale Central`), `Nigel Swales` (`Skelmersdale East`), `Ella Worthington` (`Skelmersdale West`), `Leon Graham` (`West Lancashire West`).
 
-- `Strategic use`
-  Use West Lancashire when Lancashire needs food, productivity, reinvention and younger ambassador potential.
+- `Execution rule`
+  Do not split West Lancashire into pretty villages versus problem town. The better story is productivity, independence and renewal.
 
 ## Wyre
 
-- `Borough role`
-  Coastal industry, enterprise-zone future, iconic products and maritime identity.
+- `Civic-pride line`
+  Maritime, industrial and future-facing, with iconic products that feel unmistakably local.
 
-- `Priority content`
-  Fleetwood port and promenade, Cleveleys seafront, Poulton, Wyre rural edge, Fisherman's Friend and cheese/product storytelling, Hillhouse enterprise-zone visuals.
+- `County job`
+  Give Lancashire coastal industry, enterprise-zone future, product pride and a different coastal mood from Blackpool or Fylde.
+
+- `Priority audiences`
+  Residents and homecomers, family seaside visitors, coastal day-trippers, industrial and clean-energy partners and shoppers who respond to product-led place stories.
+
+- `Video architecture`
+  County hero film: use Wyre when Lancashire needs maritime industry, harbour geometry and iconic products.
+  Borough film: balance Fleetwood port identity, Cleveleys and Poulton public life, Hillhouse enterprise-zone ambition and rural edge.
+  Division films: organise around Fleetwood East and West, Cleveleys, Poulton, Thornton and Hambleton, Garstang and the rural Bowland-facing edge.
+
+- `Hero content pillars`
+  Port and promenade, iconic products and food, clean-energy and enterprise-zone future, town and rural transition.
+
+- `Visual system`
+  Wide sea horizons, harbour geometry, product and factory detail, sea wall movement and softer rural transitions inland.
 
 - `Sound`
-  maritime brass, choir warmth, coastal percussion, less theatrical than Blackpool and less premium than Fylde.
+  Maritime brass, choir warmth, coastal percussion, less theatrical than Blackpool and less premium than Fylde.
 
-- `People`
+- `People and institutions`
   `Alfie Boe` as the strongest premium cultural voice linked to Fleetwood.
   Business-family and founder stories matter more than celebrity depth.
+  Institutional proof: Fleetwood port, `Hillhouse Technology Enterprise Zone`, `Dewlay`, `Fisherman's Friend`.
 
-- `Business and proof`
+- `Business, product and proof`
   `Hillhouse Technology Enterprise Zone`, `Dewlay`, `Fisherman's Friend` business story, Invest in Wyre and business grants.
 
+- `Best moments and seasonal windows`
+  Harbour dawn, seafront sunset, storm-light coastal days, factory and product interiors and spring or summer family-use scenes along the coast.
+
 - `Geography`
-  `Fleetwood East`, `Fleetwood West & Cleveleys West`, `Poulton le Fylde`, `Thornton & Hambleton`, `Wyre Rural Central`.
+  Core division clusters: `Cleveleys East`, `Cleveleys South & Carleton`, `Fleetwood East`, `Fleetwood West & Cleveleys West`, `Poulton le Fylde`, `Thornton & Hambleton`, `Wyre Rural Central`, `Wyre Rural East`.
 
 - `Reform county councillors`
   `James Crawford` (`Cleveleys East`), `Jan Schofield` (`Cleveleys South & Carleton`), `David Charles Shaw` (`Fleetwood East`), `Alice Jones` (`Fleetwood West & Cleveleys West`), `Nigel Alderson` (`Thornton & Hambleton`), `Matthew Jacques Salter` (`Wyre Rural Central`), `James David Tomlinson` (`Wyre Rural East`).
 
-- `Strategic use`
-  Use Wyre when Lancashire needs maritime industry, iconic products and clean-energy enterprise-zone credibility.
+- `Execution rule`
+  Do not make Wyre feel like a weaker Blackpool or Fylde. The strength is maritime industry, products and working-coast credibility.
 
-## 2. Borough tiers
+## 15. Borough families
 
 The boroughs naturally group into a few strategic families.
 
-- `County-recognition and spectacle boroughs`
+- `Recognition and spectacle`
   `Blackpool`, `Lancaster`, `Pendle`, `Preston`.
 
-- `Future-growth and business-proof boroughs`
+- `Future-industry and business-proof`
   `South Ribble`, `Blackburn with Darwen`, `Fylde`, `Lancaster`, `Wyre`.
 
-- `Premium and quality boroughs`
+- `Quality and premium`
   `Ribble Valley`, `Fylde`.
 
-- `Regeneration and comeback boroughs`
+- `Comeback and regeneration`
   `Burnley`, `Hyndburn`, `Rossendale`, `West Lancashire`, `Pendle`, `Blackpool`.
 
-## 3. Final borough rule
+- `Warm everyday Lancashire`
+  `Chorley`, `Preston`, parts of `West Lancashire`, parts of `Fylde`.
 
-If a borough cut does not clearly show:
+## 16. Borough rule for local films
+
+Every local film inside a borough should still clearly show:
 
 - one ownable local visual system
-- one recognisable tonal / music logic
-- one or two people or institutions that prove the story
-- one current economic or civic reason the borough matters
+- one recognisable tonal and music logic
+- one or two people, institutions or products that prove the story
+- one current economic, civic or cultural reason the place matters
 
-then it is still too generic.
+If a local film does not clearly inherit the county brand and its own borough logic at the same time, it is still too generic.

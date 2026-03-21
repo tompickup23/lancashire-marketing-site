@@ -1,15 +1,45 @@
 # Lancashire County Council Division Footage Breakdown
 
-Checked on March 20, 2026.
+Checked on `21 March 2026`.
 
-This uses the current official Lancashire County Council division list, which has 82 electoral divisions rather than district wards. Source: [Official Lancashire County Council councillor/division page][Official divisions].
+This is now the `division-level video layer` for the Lancashire marketing project.
+
+Use it after the county strategy and borough strategy.
+
+It uses the current official Lancashire County Council division list, which has `82 electoral divisions` rather than district wards. The user has described this as `ward` level, but the precise county-council geography is divisions. Source: [Official Lancashire County Council councillor/division page][Official divisions].
 
 Scope note:
-- This is strict Lancashire County Council geography.
-- Blackpool and Blackburn with Darwen are excluded here because they are unitary authorities, not Lancashire County Council divisions.
-- `Strong` means I found either an exact free video clip or a clearly place-tagged free media/video pool.
-- `Medium` means the best verified source is a reusable Wikimedia Commons pool or town/landmark media page; good for stills and occasional motion, but not guaranteed polished UHD video.
-- `Low` means I did not surface strong free motion for that division; use the linked nearby media pools as a starting point and expect to self-shoot or source additional CC footage.
+
+- this is strict Lancashire County Council geography
+- Blackpool and Blackburn with Darwen are excluded here because they are unitary authorities, not Lancashire County Council divisions
+- `Strong` means I found either an exact free video clip or a clearly place-tagged free media or video pool
+- `Medium` means the best verified source is a reusable Wikimedia Commons pool or town or landmark media page, good for stills and occasional motion, but not guaranteed polished UHD video
+- `Low` means I did not surface strong free motion for that division; use the linked nearby media pools as a starting point and expect to self-shoot or source additional CC footage
+
+## 1. How to use this for local films
+
+Each division film should usually be:
+
+- `30 to 45 seconds`
+- one dominant local place idea
+- one recognisable opening image
+- one human or public-life scene
+- one local proof point from business, product, civic life, sport, culture or heritage
+- one ending that still feels part of Lancashire rather than a stand-alone town ad
+
+Creative rule:
+
+- borrow the tone and sound palette from the borough strategy
+- keep the county brand family intact
+- do not fake specificity by overusing nearby icons that do not really read as local
+
+Production rule:
+
+- if a division is `Strong`, start with footage assembly and only top up where needed
+- if a division is `Medium`, expect a mix of free media, stills, simple motion and some self-shot coverage
+- if a division is `Low`, plan to self-shoot or commission exact local footage
+
+## 2. Division breakdown
 
 ## A
 

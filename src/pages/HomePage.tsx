@@ -15,11 +15,11 @@ export function HomePage() {
           <p className="eyebrow">County brand platform</p>
           <h1 className="hero-title">Lancashire, packaged for the web.</h1>
           <p className="lede">
-            This repo now structures the Lancashire work into a county strategy,
-            a borough strategy and a reserve pool, then keeps the deeper source
-            research underneath that core architecture. It is designed to be
-            easier to scan, share and publish without losing the underlying
-            working material.
+            This repo now structures the Lancashire work as a video-first
+            programme: one county hero film, one local film for each current
+            county division, a borough strategy that controls tone and proof,
+            and a reserve pool that preserves the second-wave material without
+            cluttering the main strategy.
           </p>
           <div className="hero-actions">
             <Link className="button button-primary" to="/divisions">
@@ -41,7 +41,8 @@ export function HomePage() {
             <p>
               The strongest Lancashire story here is not just landscape. It is
               <strong> coast + food + culture + proud boroughs + future momentum</strong>,
-              with county, borough, reserve and division layers underneath it.
+              delivered through one county film and a full local video system
+              underneath it.
             </p>
             <div className="pill-row">
               <span className="pill">Tourism</span>
@@ -80,8 +81,8 @@ export function HomePage() {
             <h2 className="section-title">Research stack</h2>
             <p className="section-copy">
               The top of the stack is now the county strategy, the borough
-              strategy and the reserve pool. The deeper source files stay in
-              place underneath them.
+              strategy and the reserve pool, with the division layer acting as
+              the exact local production map underneath them.
             </p>
           </div>
         </div>
