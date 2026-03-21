@@ -26,6 +26,23 @@ export const researchDocuments: ResearchDocument[] = [
       ),
   },
   {
+    slug: 'county-hero-script',
+    title: 'County Hero Film Script',
+    kicker: 'Core',
+    description:
+      'The first production-ready county hero film brief, including best-practice emotional-film rules, full voiceover, act structure and a timecoded footage map.',
+    highlights: [
+      '100-second county master film',
+      'Full voiceover script',
+      'Timecoded picture plan',
+      'Best-practice film logic behind the cut',
+    ],
+    loadMarkdown: () =>
+      import('../../content/lancashire_county_hero_film_script.md?raw').then(
+        (module) => module.default,
+      ),
+  },
+  {
     slug: 'borough-strategy',
     title: 'Borough Strategy',
     kicker: 'Core',
@@ -124,6 +141,23 @@ export const researchDocuments: ResearchDocument[] = [
     ],
     loadMarkdown: () =>
       import('../../content/lancashire_footage_quality_and_context_assessment.md?raw').then(
+        (module) => module.default,
+      ),
+  },
+  {
+    slug: 'county-hero-storyboard',
+    title: 'County Hero Storyboard',
+    kicker: 'Support',
+    description:
+      'The production storyboard for the county film, tied to the measured northern-male scratch voiceover and scene-by-scene shot order.',
+    highlights: [
+      'Measured voiceover timings',
+      '20-scene storyboard order',
+      'Silent end-act logic',
+      'Next production steps for the first animatic',
+    ],
+    loadMarkdown: () =>
+      import('../../content/lancashire_county_hero_storyboard.md?raw').then(
         (module) => module.default,
       ),
   },
