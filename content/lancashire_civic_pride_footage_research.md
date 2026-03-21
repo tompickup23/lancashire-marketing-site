@@ -361,6 +361,101 @@ Operational rule for this project:
 - `Best practice`  
   Save a screenshot or PDF of the licence page on the day you download anything, because platform settings and creator choices can change later.
 
+## 2.7 How to get better drone footage and social-star footage
+
+The free-UHD search is only one route.
+
+If Lancashire wants the campaign to look world-class, the acquisition plan should combine `free source footage`, `creator permissions`, and `new capture`.
+
+### 2.7.1 Drone footage
+
+Best routes:
+
+- `Free stock and Commons first`  
+  Keep a live pool of reusable aerials from [Pexels drone search][pexels-drone-search], [Pexels aerial search][pexels-aerial-search], [Pexels FPV search][pexels-fpv-search], and [Pixabay drone search][pixabay-drone-search]. This is the fastest route for broad atmosphere, transitions and generic county-scale movement.
+
+- `Self-shoot the exact missing Lancashire icons`  
+  The best use of new drone days is not generic coast or countryside. It is the current gap list: `Pendle Hill`, `Singing Ringing Tree`, `Towneley Hall`, `Samlesbury Hall`, `Fleetwood harbour`, `Lancaster Castle`, and premium `Ribble Valley` approaches. That is where exact civic-pride value is highest.
+
+- `Use a local contributor callout`  
+  Ask Lancashire drone photographers and filmmakers to submit existing 4K/UHD aerials under a written campaign licence or donation agreement. For a civic-pride campaign, this is often the cheapest path to exact local footage because many pilots already have the landmarks shot.
+
+- `Capture both hero and utility passes`  
+  Do not only brief cinematic orbits. Also capture simple reveals, straight push-ins, top-down textures, road follows, coastlines, market-town establishing shots and 5 to 10 second clean plates that editors can actually use repeatedly.
+
+- `Shoot sunrise and blue-hour windows`  
+  For Lancashire, the difference between average and powerful aerials is often weather and light rather than camera body.
+
+Operational and compliance note:
+
+- In the UK, drone flying is governed by the Civil Aviation Authority. The CAA’s Drone Code says you must keep your drone in sight, follow distance and safety rules, and check where you can fly. The CAA also requires registration in many cases. If people can be identified in your footage, the Information Commissioner’s Office says data protection law can apply depending on how you are using the footage. Sources: [CAA drones overview][caa-drones], [CAA Drone Code][caa-drone-code], [ICO drones guidance][ico-drones].
+
+### 2.7.2 Better ways to get footage of social media stars
+
+The right model is `licensed creator collaboration`, not ripping posts.
+
+Best routes:
+
+- `Get the creator to license existing footage directly`  
+  Ask for the original master files, not a platform rip. This preserves quality and avoids platform-compression problems. In the agreement, cover where the footage can be used, how long for, whether paid ads are allowed, and whether the creator is also granting rights in any music, logos or third-party appearances.
+
+- `Ask for new self-shot material`  
+  Many social creators can supply much better county-specific footage by self-shooting on current phones or mirrorless cameras than anything available free online. Brief them for `4K`, clean music-free originals, horizontal and vertical versions, and a simple local story such as favourite place, favourite view, market, walk, beach, or family routine.
+
+- `Run ambassador capture days`  
+  Bring several Lancashire-rooted creators or public figures into one filmed county day rather than chasing separate permissions on random old clips. This is the fastest way to get exact hero footage that feels current.
+
+- `Use platform-authorised creator tools when boosting content`  
+  TikTok explicitly supports using content from `authorized creator accounts` through Spark Ads and linked business accounts. Source: [TikTok F.I.R.S.T. / Spark Ads guidance][tiktok-first]. For YouTube, creator-partnership tooling and open-call workflows are designed to connect brands with creators for authorised campaigns rather than unlicensed reuse. Source: [YouTube creator partnerships overview][youtube-creator-partnerships]. These routes are not usually free, but they are the cleanest scalable route for exact star or influencer content.
+
+- `Use official creator marketplaces for outbound`  
+  Meta has expanded creator marketplace workflows for brands, and TikTok has creator matching and creative services routes. Sources: [Meta creator marketplace update][meta-creator-marketplace], [TikTok One][tiktok-one], [TikTok Creative Exchange][tiktok-creative-exchange]. For this Lancashire project, those systems matter less as ad-buying products and more as a model: use a structured creator database, explicit permissions, and agreed deliverables.
+
+- `Use stills and press assets for exact identity, motion for atmosphere`  
+  If a named Lancashire person matters politically or culturally but no reusable UHD motion exists, combine a licensed still or Commons image with fresh county motion. That is often better than using poor-quality old social clips.
+
+Minimum rights checklist for any creator-supplied footage:
+
+- `Master files`
+  Request the original exported files, not downloaded posts.
+
+- `Resolution`
+  Ask for `4K/UHD` plus both `16:9` and `9:16` if possible.
+
+- `Music`
+  Require no copyrighted music unless separately licensed.
+
+- `Usage rights`
+  Cover organic social, website, events, presentations and paid media if needed.
+
+- `People and places`
+  Confirm the creator has permission for anyone prominently featured and for any private-property locations where required.
+
+- `Attribution`
+  Decide in advance whether the campaign will credit the creator on-screen, in captions, or only in metadata / records.
+
+### 2.7.3 Best Lancashire capture hubs by division
+
+If you want a disciplined acquisition plan instead of random filming, the cleanest production structure is a small number of division-led capture hubs.
+
+- `Pendle Central` and `Padiham and Burnley West`
+  Drone and ground footage for `Pendle Hill`, `Singing Ringing Tree`, moorland roads, Burnley skyline, mills, making, and strong East Lancashire identity.
+
+- `Ribble Valley South West`, `Clitheroe`, and `Preston Rural`
+  Premium rural Lancashire: cheese, farm shops, Bowland approaches, market-town texture, food provenance and higher-end tourism branding.
+
+- `Morecambe Central`, `Lancaster Central`, and `Lancaster Rural North`
+  Bay, promenade, Stone Jetty, heritage streets, rail arrival, Eden story, sunsets and the widest-appeal hero tourism material.
+
+- `Lytham` and `St Annes South`
+  Premium coast, golf, festival, event, green space, hospitality and postcard-grade tourism film.
+
+- `Preston East` and nearby Preston divisions
+  Urban pride, Harris / city culture, civic activity, students, business, food and transport energy.
+
+- `County-wide creator network`
+  Use the Burnley pilot, civic figures, local ambassadors, and sector creators as a distributed contributor network, but collect footage to one central licensing standard instead of letting usage rights drift.
+
 ## 3. What to include in the film
 
 ## 3.1 The highest-priority visual pillars
@@ -795,6 +890,18 @@ If this Lancashire marketing project is meant to feel current rather than timele
 [commons-steve-pemberton]: https://commons.wikimedia.org/wiki/Category:Steve_Pemberton
 [commons-lancashire-hotpot]: https://commons.wikimedia.org/wiki/Category:Lancashire_hotpot
 [commons-lancashire-cheese]: https://commons.wikimedia.org/wiki/Category:Lancashire_cheese
+[pexels-drone-search]: https://www.pexels.com/search/videos/drone/
+[pexels-aerial-search]: https://www.pexels.com/search/videos/aerial/
+[pexels-fpv-search]: https://www.pexels.com/search/videos/fpv/
+[pixabay-drone-search]: https://pixabay.com/videos/search/drone/
+[caa-drones]: https://www.caa.co.uk/drones/
+[caa-drone-code]: https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/drone-code/drone-code-overview/
+[ico-drones]: https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/cctv-and-video-surveillance/guidance-on-video-surveillance-including-cctv/additional-considerations-for-technologies-other-than-cctv/
+[meta-creator-marketplace]: https://about.fb.com/news/2024/02/creator-marketplace-for-brands-and-creators-to-collaborate-on-instagram/amp/
+[tiktok-first]: https://ads.tiktok.com/business/en-US/blog/custom-identity-transition
+[tiktok-one]: https://ads.tiktok.com/business/en-US/blog/tiktok-one-creative-platform
+[tiktok-creative-exchange]: https://ads.tiktok.com/creativeexchange/
+[youtube-creator-partnerships]: https://blog.youtube/news-and-events/earn-more-with-brand-partnerships/
 [youtube-license-types]: https://support.google.com/youtube/answer/2797468
 [youtube-terms]: https://www.youtube.com/t/terms
 [instagram-terms]: https://www.facebook.com/help/instagram/581066165581870
