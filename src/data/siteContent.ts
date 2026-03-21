@@ -109,6 +109,23 @@ export const researchDocuments: ResearchDocument[] = [
         (module) => module.default,
       ),
   },
+  {
+    slug: 'tour-monetisation',
+    title: 'Tour de France Monetisation',
+    kicker: 'Events',
+    description:
+      'A Lancashire-focused monetisation and legacy paper for the 2027 Tour de France, covering what LCC can capture, what it cannot, and what past host regions teach.',
+    highlights: [
+      'What LCC can monetise in practice',
+      'Past host lessons from Yorkshire, Utrecht and Denmark',
+      'Route-value map with division anchors',
+      'How to fold the race into the Lancashire marketing plan',
+    ],
+    loadMarkdown: () =>
+      import('../../content/lancashire_tour_de_france_monetisation_research.md?raw').then(
+        (module) => module.default,
+      ),
+  },
 ]
 
 export const documentLookup = Object.fromEntries(
@@ -231,6 +248,11 @@ export const spotlightPoints = [
     title: 'There is now a public talent layer',
     description:
       'Burnley and Padiham now have a publishable talent-and-style document that is tighter than a raw influencer scrape and more useful for campaign outreach.',
+  },
+  {
+    title: 'The Tour now has a business case',
+    description:
+      'The 2027 Tour de France is now treated as a Lancashire monetisation and legacy platform, not just a spectacle or awareness moment.',
   },
   {
     title: 'The source docs stay readable',

@@ -1,6 +1,6 @@
 # Lancashire Brand Platform And Talent Strategy
 
-Prepared on March 20, 2026.
+Prepared on March 21, 2026.
 
 This document is the strategic layer for the wider Lancashire marketing project. It builds on:
 
@@ -943,16 +943,16 @@ Lancashire now has a meaningful run of hooks. The job is not to list them once; 
 - `Tour de France through Lancashire`
   Why it matters: this is one of the biggest global visibility moments Lancashire has had in years.
   Date: `July 3, 2027`.
-  Current source note: Marketing Lancashire says around `80 miles` of Stage 2 is expected to run through Lancashire, including Carnforth, Morecambe, Lancaster, Forest of Bowland, Clitheroe, Langho/Whalley, Blackburn, Chorley and West Lancashire.
-  Sources: [Marketing Lancashire - Tour de France 2027](https://www.marketinglancashire.com/news/world-class-cyclists-heading-to-lancashire-for-tour-de-france-2027/), [Visit Lancashire - Tour de France GB 2027](https://www.visitlancashire.com/whats-on/tour-de-france-gb-2027-p1162190).
-  Division note: likely activation touches `Lancaster Rural North`, `Morecambe Central`, `Lancaster Central`, `Lancaster Rural East`, `Clitheroe`, `Ribble Valley South West`, `Chorley Central` / `Chorley Rural East`, and `West Lancashire East` / `West Lancashire West`, plus Blackburn with Darwen outside LCC geography. Exact division-level routeing will need confirming when the final road book is published.
+  Current source note: the official organising committee confirms that the `Keswick to Liverpool` stage is the Lancashire day and that the route becomes more rolling and challenging `once beyond Lancaster`. A.S.O. also confirms `five climbs` on the stage. Marketing Lancashire says around `80 miles` of Stage 2 are expected to run through Lancashire, including Carnforth, Morecambe, Lancaster, Forest of Bowland, Clitheroe, Langho/Whalley, Blackburn, Chorley, Wrightington/Parbold and West Lancashire, and says independent sports modelling suggests `over £15 million` in additional economic activity for Lancashire.
+  Sources: [A.S.O. Grand Départ 2027](https://www.letour.fr/en/the-race/grands-departs/grand-depart-2027), [Grand Départ GB press release](https://www.letourgb.com/press-release), [Marketing Lancashire - Tour de France 2027](https://www.marketinglancashire.com/news/world-class-cyclists-heading-to-lancashire-for-tour-de-france-2027/), [Visit Lancashire - Tour de France GB 2027](https://www.visitlancashire.com/whats-on/tour-de-france-gb-2027-p1162190).
+  Division note: the strongest confirmed planning anchors are `Lancaster Rural North`, `Morecambe North` / `Morecambe Central` / `Morecambe South`, `Lancaster Central`, and `Lancaster Rural East` for the `Jubilee Tower` climb story. Ribble Valley, Chorley, West Lancashire and Blackburn with Darwen should still be planned now, but exact division-level routeing beyond the Lancaster corridor should be treated as `current local route narrative` until the detailed road book is published later in 2026.
 
 - `Tour de France Femmes avec Zwift across Lancashire`
   Why it matters: this doubles the cycling story and gives Lancashire two national/global cycling windows in the same month.
   Date: `July 30, 2027`.
-  Current source note: Visit Lancashire says the race will start in Leeds and cross Lancashire on its way to Manchester.
-  Source: [Visit Lancashire - Tour de France GB 2027](https://www.visitlancashire.com/whats-on/tour-de-france-gb-2027-p1162190).
-  Division note: exact Lancashire division mapping is not yet specific enough to lock down from current public route information.
+  Current source note: Visit Lancashire says the race will start in Leeds and cross Lancashire on its way to Manchester, but the official organising committee says the detailed `Leeds to Manchester` and `Manchester to Sheffield` routes will be announced in `spring 2026`. As of `March 21, 2026`, the right planning stance is `prepare`, but do not over-claim exact Lancashire division geography yet.
+  Sources: [Visit Lancashire - Tour de France GB 2027](https://www.visitlancashire.com/whats-on/tour-de-france-gb-2027-p1162190), [Grand Départ GB FAQs](https://www.letourgb.com/copy-of-press-release-2).
+  Division note: exact Lancashire division mapping should wait for the detailed route announcement.
 
 - `Bay International Film Festival`
   Why it matters: a very useful cultural-confidence story for Morecambe, with international guests and genuine local/community participation.
@@ -972,14 +972,56 @@ Lancashire now has a meaningful run of hooks. The job is not to list them once; 
   Sources: [Eden Project Morecambe planning milestone](https://www.edenproject.com/eden-project-morecambe-celebrates-a-major-milestone-paving-the-way-to-break-ground-in-2026), [Bring Me Sunshine Garden](https://www.edenproject.com/new-edens/eden-project-morecambe-uk/chelsea-flower-show-2026).
   Division note: `Morecambe Central`.
 
-### 20.3 Calendar discipline
+### 20.3 Tour de France monetisation model
+
+The most important strategic correction is this:
+
+- Lancashire should not treat the Tour de France as a `ticketed revenue event`
+- Lancashire should treat it as a `value-capture and place-marketing event`
+
+Why:
+
+- the event is `free to attend`
+- the official organising committee is already handling `sponsorship`, `hospitality`, and `supplier` expressions of interest centrally
+- the official Tour rights and web properties sit with `A.S.O.`
+
+Sources: [Grand Départ GB home page](https://www.letourgb.com/), [Grand Départ GB FAQs](https://www.letourgb.com/copy-of-press-release-2), [A.S.O. legal / copyright page](https://www.letour.fr/en/copyrights).
+
+That means the winning Lancashire model is:
+
+- `race-weekend spend capture`
+  Convert the Saturday stage into overnight stays, weekend breaks, food and drink spend, attraction visits and Sunday follow-on itineraries.
+
+- `Lancashire-side sponsorship and fringe programming`
+  Build local partner inventory around fan hubs, food villages, trade receptions and county-wide celebration, without pretending those are official Tour sponsorship rights.
+
+- `procurement and supplier capture`
+  Organise local firms to go after official supply and contracting opportunities, and then use local sourcing aggressively in Lancashire-run wraparound programming.
+
+- `business readiness`
+  Give route towns and stay hubs a county-wide business kit covering opening hours, takeaway offers, race-day access, multilingual basics, CRM capture and cycling-friendly facilities.
+
+- `trade and investment programming`
+  Yorkshire paired the 2014 Grand Départ with an `International Business Festival` for more than `2,000 participants from 10 nations`. Lancashire should run its own business and innovation programme around the race instead of leaving that value on the table.
+
+- `cycling legacy`
+  Turn the race route into a post-event product with signed sections, downloadable rides, family variants, and cycling-friendly accommodation and hospitality.
+
+Sources: [Three Inspirational Days impact summary](https://content.tfl.gov.uk/tour-de-france-three-inspirational-days-impact.pdf), [Three Inspirational Days full report](https://democracy.york.gov.uk/%28S%28aw2b23jofoyuejfc1asnl055%29%29/documents/s95197/1.%20Background%20Paper%20-%20THREE%20INSPIRATIONAL%20DAYS%20FULL%20FINAL.pdf), [City of York Council Tour de Yorkshire cabinet paper](https://democracy.york.gov.uk/documents/s94168/Tour%20de%20Yorkshire%20Cabinet%20Paper%2016.12.14.pdf), [Pendle Visitor Economy Plan / Tour of Britain legacy actions](https://www.pendle.gov.uk/download/meetings/id/20547/item_19_appendix), [VisitDenmark Detour de France](https://www.visitdenmark.dk/corporate/aktiviteter/detour-de-france-eng), [University of Utrecht evaluation](https://www.uu.nl/nieuws/le-grand-depart-utrecht-2015-een-feest-voor-de-stad).
+
+Practical planning rule:
+
+- do not use gross crowd numbers as a proxy for council income
+- do separate `new external spend`, `local churn`, `media value`, `supplier value`, and `legacy value`
+
+### 20.4 Calendar discipline
 
 The important strategic point is this:
 
 - 2026 should be used to build `food + coast + glamour + future Lancashire`
 - 2027 should be used to build `global attention + cycling + bay regeneration + county confidence`
 
-As of `March 20, 2026`, confirmed 2027 public programming is still thinner than 2026 outside the cycling and Morecambe stories.
+As of `March 21, 2026`, confirmed 2027 public programming is still thinner than 2026 outside the cycling and Morecambe stories.
 
 That means Lancashire should build an internal 2027 comms grid now and keep adding confirmed events as they publish, rather than waiting for a perfect public calendar to appear.
 
@@ -1043,26 +1085,20 @@ The project is already using current Lancashire County Council electoral divisio
 - `Lancaster Rural North`
   Carnforth-side Tour de France 2027 entry and north-bay approach.
 
-- `Morecambe Central`
-  Tour de France 2027 bayfront visibility and Morecambe event overlays.
+- `Morecambe North`, `Morecambe Central`, and `Morecambe South`
+  bayfront visibility, promenade crowd scenes, weekend packaging and Morecambe event overlays.
 
 - `Lancaster Central`
   city-centre route energy and civic welcome.
 
-- `Lancaster Rural East` and `Longridge with Bowland`
-  Bowland-side landscape and climb storytelling.
+- `Lancaster Rural East`
+  the `Jubilee Tower` climb story and Bowland-facing landscape marketing.
 
-- `Clitheroe`
-  route prestige and Ribble Valley activation.
+- `Clitheroe`, `Ribble Valley South West`, `Chorley Central`, `Chorley Rural East`, `West Lancashire East`, and `West Lancashire West`
+  locally signalled current route narrative for Lancashire planning, to be hardened once the detailed road book is published.
 
-- `Ribble Valley South West`
-  Langho / Whalley route storytelling.
-
-- `Chorley Central` and `Chorley Rural East`
-  Chorley/Rivington-side cycling and spectatorship.
-
-- `West Lancashire East` and `West Lancashire West`
-  southern stage exit, spectator villages, and longer-stay west-Lancashire packaging.
+- `Outside Lancashire County Council divisions`
+  Blackburn with Darwen needs planning weight because current Lancashire marketing material places Blackburn on the stage narrative, even though it is outside LCC electoral geography.
 
 Final note:
 
