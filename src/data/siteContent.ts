@@ -111,6 +111,23 @@ export const researchDocuments: ResearchDocument[] = [
       ),
   },
   {
+    slug: 'footage-quality',
+    title: 'Footage Quality Assessment',
+    kicker: 'Support',
+    description:
+      'A production-facing grading of the current Lancashire footage stack, scoring quality, exactness, licensing ease, strategic fit and first-video readiness.',
+    highlights: [
+      'County hero film shortlist',
+      'Borough readiness matrix',
+      'First local pilot films',
+      'Gap list and shoot priorities',
+    ],
+    loadMarkdown: () =>
+      import('../../content/lancashire_footage_quality_and_context_assessment.md?raw').then(
+        (module) => module.default,
+      ),
+  },
+  {
     slug: 'division-breakdown',
     title: 'County Council Division Breakdown',
     kicker: 'Support',
@@ -317,6 +334,11 @@ export const spotlightPoints = [
     title: 'There is now a three-layer strategy',
     description:
       'The site now has a clear county strategy, borough strategy and reserve pool, with the division layer sitting underneath as the exact local production map.',
+  },
+  {
+    title: 'The footage is now production-graded',
+    description:
+      'The current visual stack is now scored for quality, exactness, licence ease and context fit, so the first county and local films can be planned from evidence rather than instinct.',
   },
   {
     title: 'There is now a public talent layer',
