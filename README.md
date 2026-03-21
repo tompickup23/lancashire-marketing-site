@@ -8,6 +8,7 @@ This repo turns the Lancashire civic-pride and tourism research into a GitHub Pa
 - `content/lancashire_borough_influence_and_business_map.md`
 - `content/lancashire_civic_pride_footage_research.md`
 - `content/lancashire_county_council_division_footage_breakdown.md`
+- `content/lancashire_music_and_sonic_identity.md`
 - `content/lancashire_public_talent_map_burnley_padiham.md`
 - `content/lancashire_tour_de_france_monetisation_research.md`
 - `content/burnley-social-following-research-2026-03-17.md`

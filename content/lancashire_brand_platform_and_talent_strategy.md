@@ -330,6 +330,40 @@ Include:
 
 Texture is what makes place real.
 
+### 9.5 Build a county sound, not just a soundtrack
+
+The best Lancashire marketing will have a recognisable `sonic identity`.
+
+The strongest route is not one famous commercial song.
+
+It is a blend of:
+
+- `Blackpool Wurlitzer / ballroom heritage`
+- `Lancashire communal singing and choir culture`
+- `modern singer-songwriter warmth`
+- `enough contemporary production to feel current`
+
+The strongest current emotional reference point I found is `Little Boots` and her Lancashire commission `red rose`, which she says was inspired by `Blackpool`, the `Fylde Coast`, `Wyre`, `returning home`, and `togetherness`. Source: [An Interview With Little Boots](https://moremusic.org.uk/news/an-interview-with-little-boots/).
+
+The strongest heritage colour is `Blackpool’s Wurlitzer` and the `Reginald Dixon` tradition. Sources: [The Blackpool Tower Ballroom](https://www.theblackpooltower.com/plan-your-visit/help-centre/general-enquiries/can-i-have-afternoon-tea-in-the-tower-ballroom/), [Visit Lancashire on Reginald Dixon](https://www.visitlancashire.com/blog/read/2021/08/vintage-blackpool-tram-to-be-renamed-in-honour-of-famous-blackpool-tower-organist-reginald-dixon-b902).
+
+The strongest people-led county-wide music logic is `County of Song`, which Lancashire-backed arts partners describe as celebrating the county’s `rich vocal tapestry` and singing heritage. Source: [County of Song](https://artslancashire.org.uk/county-of-song/).
+
+Practical rule:
+
+- `best route for the hero film`
+  commission an original theme built around piano, subtle Wurlitzer colour, rising strings or pads, communal voices, and modern rhythm production
+
+- `best route for faster rollout`
+  use production music, but brief it to sound like Lancashire rather than settling for generic corporate music
+
+Operational note:
+
+- commercial songs will usually require sync clearance on the publishing side and clearance from the recording-rights owner if the original recording is used
+- production music is the easier fallback route
+
+Sources: [PRS commercial sync licensing](https://www.prsformusic.com/licences/releasing-music-products/commercial-music-sync-licensing), [MCPS Production Music](https://mcpsproductionmusic.co.uk/).
+
 ## 10. Talent strategy principle
 
 The key rule is simple:

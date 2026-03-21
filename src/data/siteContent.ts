@@ -126,6 +126,23 @@ export const researchDocuments: ResearchDocument[] = [
         (module) => module.default,
       ),
   },
+  {
+    slug: 'music-identity',
+    title: 'Music and Sonic Identity',
+    kicker: 'Sound',
+    description:
+      'A Lancashire soundtrack brief covering the strongest county music associations, sonic references, licensing realities and what the main campaign should sound like.',
+    highlights: [
+      'Best Lancashire music codes',
+      'What to use for the hero film',
+      'Artist and heritage reference points',
+      'Licensing guidance for commercial versus production music',
+    ],
+    loadMarkdown: () =>
+      import('../../content/lancashire_music_and_sonic_identity.md?raw').then(
+        (module) => module.default,
+      ),
+  },
 ]
 
 export const documentLookup = Object.fromEntries(
@@ -253,6 +270,11 @@ export const spotlightPoints = [
     title: 'The Tour now has a business case',
     description:
       'The 2027 Tour de France is now treated as a Lancashire monetisation and legacy platform, not just a spectacle or awareness moment.',
+  },
+  {
+    title: 'The brand now has a sound',
+    description:
+      'The music layer now treats Lancashire as a sonic identity built from choir, ballroom, coast and modern production, rather than a random playlist.',
   },
   {
     title: 'The source docs stay readable',
