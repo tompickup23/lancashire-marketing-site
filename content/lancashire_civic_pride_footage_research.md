@@ -174,6 +174,193 @@ Use note:
 - Treat the archive items above as `research/inspiration unless separately licensed`.
 - They are not the same thing as Pixabay/Pexels/Wikimedia free reuse.
 
+## 2.4 More fully free UHD footage for products, business and creator texture
+
+If the brief is specifically `fully free`, `best quality`, and `UHD where possible`, the most practical route is to separate:
+
+- `exact Lancashire-specific footage`, which is still limited
+- `high-quality free proxy footage`, which is much stronger for products, hospitality, makers and creator texture
+
+Strong fully free UHD options I found:
+
+- [Pouring Tea in Scenic Countryside Setting, Pexels][pexels-tea-countryside]  
+  What it is: 4K tea-pouring footage in a scenic outdoor setting.  
+  Best use: `Lancashire Tea`-type ritual, hospitality, welcome, slow-living, farm-stay and premium hamper mood.
+
+- [Cheese Variety Market, 4K, Pixabay][pixabay-cheese-market]  
+  What it is: UHD market-style cheese footage with strong texture and variety.  
+  Best use: `Lancashire cheese`, deli, hamper, farm-shop and food-hall sequences.
+
+- [Close-Up View of Potatoes and Sweet Potatoes in a Wooden Rack, Pexels][pexels-potato-rack]  
+  What it is: UHD potato display footage.  
+  Best use: `Lancashire hotpot`, `Lancashire crisps`, local produce and market-to-kitchen storytelling.
+
+- [Vibrant Street Market with Shoppers and Stalls, Pexels][pexels-market-stall]  
+  What it is: UHD market footage with stronger trade and street-life energy than a generic food close-up.  
+  Best use: county markets, local traders, commerce, town-centre texture and everyday economic life.
+
+- [Street Food Montage, Pexels][pexels-street-food]  
+  What it is: energetic UHD food-stall montage.  
+  Best use: food-festival, taste-market, hospitality and quick-cut tourism content.
+
+- [Woman Preparing Food at the Kitchen, Pexels][pexels-chef-kitchen]  
+  What it is: polished 4K kitchen-prep footage.  
+  Best use: Taste Lancashire, chef-led hospitality, warm domestic cooking and food-brand montage.
+
+- [Textile Factory Worker Using Sewing Machine, Pexels][pexels-textile-worker]  
+  What it is: strong textile/manufacturing footage with visible labour and machinery.  
+  Best use: East Lancashire making, industrial heritage, productive economy, mills and modern fabrication.
+
+- [Man Driving Forklift in Warehouse, Pexels][pexels-forklift-warehouse]  
+  What it is: clean logistics and warehousing footage.  
+  Best use: freight, distribution, business parks, port-adjacent economy and supply-chain storytelling.
+
+- [Cycling Race on Scenic Road, Pexels][pexels-cycling-race]  
+  What it is: dynamic road-race footage in UHD.  
+  Best use: `Tour de France 2027`, motion, roads, momentum and county-scale energy.
+
+- [A Woman Putting a Crown on Her Best Friend's Head, Pexels][pexels-crown-proxy]  
+  What it is: clean pageant / celebration proxy footage.  
+  Best use: `Miss Lancashire`, ambassador, glamour, youth and event-supporter storytelling.
+
+- [Lively Concert Hall Audience Applauding Performance, Pexels][pexels-audience-applause]  
+  What it is: elegant indoor audience-energy footage.  
+  Best use: Blackpool Dance Festival, civic awards, theatre and cultural prestige.
+
+- [Energetic Live Concert Crowd with Vibrant Lights, Pexels][pexels-concert-crowd]  
+  What it is: high-energy music and nightlife footage.  
+  Best use: Lytham Festival, Blackpool nights, Baylight, festivals and evening-economy edits.
+
+- [Free Creator Videos, Pexels][pexels-creator-search]  
+  What it is: a high-quality search pool for creator, filming and content-production footage.  
+  Best use: social-media strategy reels, partner toolkits, creator-network explainer edits and digital-economy storytelling.
+
+High-quality search pools worth keeping open:
+
+- [Free Golf Videos, Pexels][pexels-golf-search]  
+  Best use: `Royal Lytham & St Annes`, golf tourism, AIG Women’s Open and prestige-sport mood when exact local golf footage is still being assembled.
+
+- [Free Bakery Videos, Pexels][pexels-bakery-search]  
+  Best use: high-street warmth, bakers, cafes, hospitality and food-business texture.
+
+- [Free Factory Videos, Pexels][pexels-factory-search]  
+  Best use: advanced manufacturing, engineering, industry and supply-chain storytelling.
+
+- [Free Influencer Videos, Pexels][pexels-influencer-search]  
+  Best use: creator-network, social-first campaign language and youth-facing edits.
+
+- [Market Stall Videos, Pixabay][pixabay-market-stall-search]  
+  Best use: market-town economy, food, town-centre bustle and everyday commerce.
+
+- [Street Market Stall Videos, Pixabay][pixabay-street-market-stall-search]  
+  Best use: food halls, outdoor trade, night-market texture and quick-cut tourism montage.
+
+- [Cheese Videos, Pixabay][pixabay-cheese-search]  
+  Best use: product texture, farm shops, deli edits and Lancashire cheese support footage.
+
+- [Tea Videos, Pixabay][pixabay-tea-search]  
+  Best use: calmer hospitality, welcome, gift-box and heritage-house tea service.
+
+Division anchor notes where they help:
+
+- `Outside Lancashire County Council divisions`  
+  Use the tea and county-branded consumer-goods proxies for Blackburn-based brand storytelling such as `Lancashire Tea`.
+
+- `Preston Rural` and `Ribble Valley South West`  
+  Best anchors for Lancashire cheese, premium farm-shop, hamper and rural-food edits.
+
+- `Burscough & Rufford`, `West Lancashire East`, and `Preston Rural`  
+  Best anchors for potato, farming, supply chain and agri-economy sequences.
+
+- `Padiham and Burnley West` and `Pendle Central`  
+  Best anchors for textile, making, manufacturing, mills and productive-economy montage.
+
+- `Morecambe Central`, `Lancaster Central`, `Lytham`, and `St Annes South`  
+  Best anchors for hospitality, festivals, visitor economy and premium tourism treatment.
+
+- `Lytham` and `St Annes South`  
+  Best anchors for golf and major event positioning.
+
+- `County-wide`  
+  Use cycling, creator-network, audience, awards and ambassador footage across the whole Lancashire brand story rather than pinning it too tightly to one division.
+
+## 2.5 Exact Lancashire people and product media pools
+
+For exact `Lancashire celebrity`, `Lancashire business`, and `Lancashire product` footage, the fully free search is thinner.
+
+What I could verify:
+
+- [Category: Andrew Flintoff][commons-flintoff]  
+  Use note: free stills exist, but I did not surface standout free UHD motion.
+
+- [Category: James Anderson (cricketer)][commons-james-anderson]  
+  Use note: strong reusable stills pool; no standout free UHD motion surfaced in this pass.
+
+- [Category: Ranvir Singh][commons-ranvir]  
+  Use note: a small Commons stills pool exists; free motion is not strong.
+
+- [Category: Nick Park][commons-nick-park]  
+  Use note: reusable still imagery exists, but not a verified free UHD motion source.
+
+- [Doctor Who Hell Bent Clip.webm featuring Jenna Coleman][commons-jenna-clip]  
+  Use note: this is a useful exact free `Jenna Coleman` moving-image asset, but it is `1080p`, not UHD.
+
+- [Category: Holly Bradshaw][commons-holly-bradshaw]  
+  Use note: reusable stills pool exists; no standout free UHD motion surfaced.
+
+- [David Fishwick 2023][commons-david-fishwick]  
+  Use note: free still exists via Commons; I did not find a verified exact UHD video source.
+
+- [Category: Steve Pemberton][commons-steve-pemberton]  
+  Use note: reusable stills exist, including self-published Commons material, but not free UHD motion.
+
+- [Category: Lancashire hotpot][commons-lancashire-hotpot]  
+  Use note: useful free food stills pool, but not free UHD video.
+
+- [Category: Lancashire cheese][commons-lancashire-cheese]  
+  Use note: useful free product stills pool and industrial heritage references; not strong free UHD motion.
+
+What I did **not** surface today:
+
+- exact fully free UHD footage for `Lancashire Tea`
+- exact fully free UHD footage for `Fiddler's Lancashire Crisps`
+- exact fully free UHD footage for `Mrs Kirkham's Lancashire Cheese`
+- exact fully free UHD footage for `Lancashire Sauce`
+- exact fully free UHD footage for `Miss Lancashire`
+- exact fully free UHD footage for most named Lancashire social-media influencers
+- exact fully free UHD footage for most names in the internal Burnley creator pilot
+- exact fully free UHD footage for named Lancashire civic/political figures such as `Stephen Atkinson`, `Tom Pickup`, `Luke Parker`, and `Councillor Tom Lord`
+
+Practical conclusion:
+
+- for `products and business texture`, the fully free UHD route is now good
+- for `exact named brands and personalities`, fully free UHD material is still patchy
+- the best current solution is to combine exact free stills / media pools with free UHD proxy footage, or self-shoot the named Lancashire brands and people if exactness matters
+
+## 2.6 Using YouTube or social media clips safely
+
+If the requirement is `fully free` and `safe to reuse`, treat platform footage very carefully.
+
+- `YouTube`  
+  Only treat a YouTube clip as reusable if it is explicitly marked `Creative Commons Attribution` or if you have direct written permission from the uploader / rightsholder. YouTube Help says uploaders choose either `Standard YouTube license` or `Creative Commons Attribution`, and that CC uploads can be reused subject to `CC BY` attribution rules. YouTube’s Terms of Service also restrict downloading or using content unless the service permits it or you have prior written permission. Sources: [YouTube license types][youtube-license-types], [YouTube Terms of Service][youtube-terms].
+
+- `Instagram`  
+  Public visibility is not a reuse licence. Instagram’s terms give Meta a licence to host and use what the uploader posts, but that does not give third parties a blanket right to reuse the content in a new film. Instagram’s help also states that its terms do not allow posting content that violates others’ IP rights. Sources: [Instagram Terms of Use][instagram-terms], [Instagram intellectual property help][instagram-ip].
+
+- `TikTok`  
+  Same principle: public viewing does not equal free reuse. TikTok’s terms give users a limited personal, non-commercial licence to access the service, and the uploader is still responsible for third-party rights in the content they post. Source: [TikTok Terms of Service][tiktok-terms].
+
+Operational rule for this project:
+
+- `Safe to treat as source footage`  
+  Pexels, Pixabay, Wikimedia Commons, public-domain material, explicitly CC-licensed YouTube uploads, or creator footage with written permission.
+
+- `Reference only unless separately cleared`  
+  Normal YouTube uploads, Instagram Reels, TikToks, Facebook videos and reposted creator content.
+
+- `Best practice`  
+  Save a screenshot or PDF of the licence page on the day you download anything, because platform settings and creator choices can change later.
+
 ## 3. What to include in the film
 
 ## 3.1 The highest-priority visual pillars
@@ -577,6 +764,42 @@ If this Lancashire marketing project is meant to feel current rather than timele
 [bay-film-2027]: https://www.visitlancashire.com/blog/read/2026/02/rave-reviews-for-film-festival-as-it-announces-2027-dates-b2665
 [baylight]: https://baylightmorecambe.co.uk/
 [baylight-return]: https://www.visitlancashire.com/blog/read/2025/07/baylight-festival-takes-a-pause-but-morecambes-light-will-shine-brighter-in-2027-b2460
+[pexels-tea-countryside]: https://www.pexels.com/video/pouring-tea-in-scenic-countryside-setting-36365688/
+[pixabay-cheese-market]: https://pixabay.com/videos/cheese-variety-market-hard-cheese-165976/
+[pexels-potato-rack]: https://www.pexels.com/video/close-up-view-of-potatoes-and-sweet-potatoes-in-a-wooden-rack-7456475/
+[pexels-market-stall]: https://www.pexels.com/video/vibrant-street-market-with-shoppers-and-stalls-35675125/
+[pexels-street-food]: https://www.pexels.com/video/street-food-montage-10435704/
+[pexels-chef-kitchen]: https://www.pexels.com/video/woman-preparing-food-at-the-kitchen-8179549/
+[pexels-textile-worker]: https://www.pexels.com/video/textile-factory-worker-using-sewing-machine-31358519/
+[pexels-forklift-warehouse]: https://www.pexels.com/video/man-driving-forklift-in-warehouse-13422070/
+[pexels-cycling-race]: https://www.pexels.com/video/cycling-race-on-scenic-road-32892563/
+[pexels-crown-proxy]: https://www.pexels.com/video/a-woman-putting-a-crown-on-her-best-friend-s-head-8129052/
+[pexels-audience-applause]: https://www.pexels.com/video/lively-concert-hall-audience-applauding-performance-28833344/
+[pexels-concert-crowd]: https://www.pexels.com/video/energetic-live-concert-crowd-with-vibrant-lights-29136301/
+[pexels-creator-search]: https://www.pexels.com/search/videos/creator/
+[pexels-golf-search]: https://www.pexels.com/search/videos/golf/
+[pexels-bakery-search]: https://www.pexels.com/search/videos/bakery/
+[pexels-factory-search]: https://www.pexels.com/search/videos/factory/
+[pexels-influencer-search]: https://www.pexels.com/search/videos/influencer/
+[pixabay-market-stall-search]: https://pixabay.com/videos/search/market%20stall/
+[pixabay-street-market-stall-search]: https://pixabay.com/videos/search/street%20market%20stall/
+[pixabay-cheese-search]: https://pixabay.com/videos/search/cheese/
+[pixabay-tea-search]: https://pixabay.com/videos/search/tea/
+[commons-flintoff]: https://commons.wikimedia.org/wiki/Category:Andrew_Flintoff
+[commons-james-anderson]: https://commons.wikimedia.org/wiki/Category:James_Anderson_(cricketer)
+[commons-ranvir]: https://commons.wikimedia.org/wiki/Category:Ranvir_Singh
+[commons-nick-park]: https://commons.wikimedia.org/wiki/Category:Nick_Park
+[commons-jenna-clip]: https://commons.wikimedia.org/wiki/File:Doctor_Who_Hell_Bent_Clip.webm
+[commons-holly-bradshaw]: https://commons.wikimedia.org/wiki/Category:Holly_Bradshaw
+[commons-david-fishwick]: https://commons.wikimedia.org/wiki/File:David_Fishwick_2023.jpg
+[commons-steve-pemberton]: https://commons.wikimedia.org/wiki/Category:Steve_Pemberton
+[commons-lancashire-hotpot]: https://commons.wikimedia.org/wiki/Category:Lancashire_hotpot
+[commons-lancashire-cheese]: https://commons.wikimedia.org/wiki/Category:Lancashire_cheese
+[youtube-license-types]: https://support.google.com/youtube/answer/2797468
+[youtube-terms]: https://www.youtube.com/t/terms
+[instagram-terms]: https://www.facebook.com/help/instagram/581066165581870
+[instagram-ip]: https://www.facebook.com/help/instagram/535503073130320
+[tiktok-terms]: https://www.tiktok.com/legal/page/us/terms-of-service/en
 [pexels-license]: https://www.pexels.com/license/
 [pixabay-license]: https://pixabay.com/service/license-summary/
 [videvo-license]: https://www.videvo.net/blog/terms-conditions/
